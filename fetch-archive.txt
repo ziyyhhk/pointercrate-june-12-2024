@@ -1,0 +1,12 @@
+js_|static/core/js/ui.js
+js_|static/core/js/nav.js
+js_|static/core/js/misc.js
+cs_|static/core/css/icon.css
+cs_|static/core/css/nav.css
+cs_|static/core/css/main.css
+cs_|static/core/css/ui.css
+cs_|static/core/css/core.css
+cs_|static/core/css/fa.all.min.css
+cs_|static/core/css/sidebar.css
+im_|static/demonlist/images/world.svg
+im_|static/images/logo.png

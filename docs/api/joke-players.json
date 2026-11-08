@@ -1,0 +1,29 @@
+[
+  {
+    "id": 900051,
+    "rank": 51,
+    "name": "[BT] Ak1ra",
+    "banned": false,
+    "score": 1580.21,
+    "nationality": { "country_code": "ID", "nation": "Indonesia", "subdivision": null },
+    "joke": true
+  },
+  {
+    "id": 900052,
+    "rank": 52,
+    "name": "[67] L4zy",
+    "banned": false,
+    "score": 1550.21,
+    "nationality": { "country_code": "ID", "nation": "Indonesia", "subdivision": null },
+    "joke": true
+  },
+  {
+    "id": 900053,
+    "rank": 53,
+    "name": "[CC] Val",
+    "banned": false,
+    "score": 1510.1,
+    "nationality": { "country_code": "ID", "nation": "Indonesia", "subdivision": null },
+    "joke": true
+  }
+]

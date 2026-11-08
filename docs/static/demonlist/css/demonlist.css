@@ -1,0 +1,21 @@
+table{width:90%;margin:0 5%}th{height:3em;padding:6px;color:#fff}td{line-height:2em;text-indent:5px}tr{background:#fefeff}tr:nth-child(even){background:#e6eeff}#history-table{font-weight:700}#history-table tr{background:#fffadd;color:#4d4707}#history-table tr.moved-up{background:#dfd;color:#074d07}#history-table tr.moved-down{background:#fdd;color:#4d0707}#editors li{display:inline-block;margin:2px;overflow:hidden}#editors ul{display:flex;justify-content:center;flex-wrap:wrap;align-content:center;margin:0% 5%;font-variant:small-caps}.right p,.right span,#rules span{font-size:.8em;font-weight:400}#outofboundsad{width:200px}@media(max-width:1359px){#outofboundsad{display:none}}@media(max-width:1071px){#rules,#discord{order:-1}#discord{width:100%}#editors,#submit,#stats{min-width:200px;width:30%;box-sizing:border-box}}@media(max-width:768px){#editors,#submit,#stats{width:100%}.video-link{display:none}}.dropdown{background:#fff;text-align:center}.dropdown li{padding:10px calc(10px + 0.52434444444444%);min-width:200px;width:200px;flex-grow:1}.dropdown i{font-variant:small-caps;font-size:.8em}#lists .button{font-weight:600}#level-info span{margin:5px 10px}#stats-viewer-pagination li i{padding-left:5px;color:#444;font-size:70%;font-variant:small-caps}#submission-form h3{margin:20px 0 10px}#submission-form>p{margin:5px 0;font-size:90%;text-align:center}.thumb{max-width:30%;min-width:30%;background:#000;background-size:cover}.play{background:#536778;border-radius:50%/10%;color:#fff;font-size:.5em;height:3em;padding:0;position:absolute;text-align:center;text-indent:.1em;transition:all 150ms ease-out;width:4em;opacity:.8;top:50%;left:50%;transform:translate(-50%,-50%)}.play:hover{background:#ff8c00}.play::before{background:inherit;border-radius:5%/50%;bottom:9%;content:"";left:-5%;position:absolute;right:-5%;top:9%}.play::after{border-style:solid;border-width:1em 0 1em 1.732em;border-color:transparent transparent transparent rgba(255,255,255,.75);content:" ";font-size:.75em;height:0;margin:-1em 0 0 -.75em;top:50%;position:absolute;width:0}.ct-series-a .ct-line,.ct-series-a .ct-point{stroke:#0881c6}
+/*
+     FILE ARCHIVED ON 06:33:41 May 21, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:47:58 Nov 08, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.559
+  exclusion.robots: 0.059
+  exclusion.robots.policy: 0.045
+  esindex: 0.008
+  cdx.remote: 89.974
+  LoadShardBlock: 326.668 (3)
+  PetaboxLoader3.datanode: 891.47 (4)
+  PetaboxLoader3.resolve: 114.079 (2)
+  load_resource: 925.523
+*/

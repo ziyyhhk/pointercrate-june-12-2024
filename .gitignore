@@ -1,0 +1,15 @@
+# Local browser profile used for screenshot testing — contains cookies, history
+_dev/chrome-profile/
+
+# Raw Wayback/pointercrate fetch cache, re-downloadable by build.py
+_live/
+
+# Dev-only screenshots produced by the _dev/cdp-*.js drivers
+_dev/*.png
+_dev/*.jpg
+
+__pycache__/
+*.pyc
+node_modules/
+Thumbs.db
+.DS_Store

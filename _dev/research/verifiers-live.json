@@ -1,0 +1,3369 @@
+{
+ "562": {
+  "verifier_id": 53408,
+  "verifier_name": "[67] Zoink",
+  "api_name": "Tidal Wave",
+  "name_match": true
+ },
+ "486": {
+  "verifier_id": 53408,
+  "verifier_name": "[67] Zoink",
+  "api_name": "Avernus",
+  "name_match": true
+ },
+ "442": {
+  "verifier_id": 53408,
+  "verifier_name": "[67] Zoink",
+  "api_name": "Acheron",
+  "name_match": true
+ },
+ "428": {
+  "verifier_id": 31606,
+  "verifier_name": "[DL] zoe",
+  "api_name": "Silent clubstep",
+  "name_match": true
+ },
+ "413": {
+  "verifier_id": 33483,
+  "verifier_name": "[TCD] Cursed",
+  "api_name": "Abyss of Darkness",
+  "name_match": true
+ },
+ "468": {
+  "verifier_id": 40612,
+  "verifier_name": "｛出見塩｝",
+  "api_name": "Kyouki",
+  "name_match": true
+ },
+ "380": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Slaughterhouse",
+  "name_match": true
+ },
+ "391": {
+  "verifier_id": 35840,
+  "verifier_name": "[TCD] Diamond",
+  "api_name": "Sakupen Circles",
+  "name_match": true
+ },
+ "520": {
+  "verifier_id": 53408,
+  "verifier_name": "[67] Zoink",
+  "api_name": "Tunnel of Despair",
+  "name_match": true
+ },
+ "501": {
+  "verifier_id": 53408,
+  "verifier_name": "[67] Zoink",
+  "api_name": "KOCMOC",
+  "name_match": true
+ },
+ "379": {
+  "verifier_id": 36915,
+  "verifier_name": "[TCD] Trick",
+  "api_name": "Firework",
+  "name_match": true
+ },
+ "487": {
+  "verifier_id": 2275,
+  "verifier_name": "Varium",
+  "api_name": "MINUSdry",
+  "name_match": true
+ },
+ "528": {
+  "verifier_id": 51641,
+  "verifier_name": "Lavatrex",
+  "api_name": "The Lightning Rod",
+  "name_match": true
+ },
+ "516": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Deimos",
+  "name_match": true
+ },
+ "467": {
+  "verifier_id": 3421,
+  "verifier_name": "[1319] BUNNYGRAM",
+  "api_name": "LIMBO",
+  "name_match": true
+ },
+ "464": {
+  "verifier_id": 38020,
+  "verifier_name": "Kyasshukodo",
+  "api_name": "poocubed",
+  "name_match": true
+ },
+ "496": {
+  "verifier_id": 6161,
+  "verifier_name": "bloom",
+  "api_name": "Saul Goodman",
+  "name_match": true
+ },
+ "545": {
+  "verifier_id": 36906,
+  "verifier_name": "[DL] LordVadercraft",
+  "api_name": "Eyes in the Water",
+  "name_match": true
+ },
+ "495": {
+  "verifier_id": 4531,
+  "verifier_name": "[1319] swiborg",
+  "api_name": "Solar Flare",
+  "name_match": true
+ },
+ "551": {
+  "verifier_id": 40419,
+  "verifier_name": "exsii",
+  "api_name": "Belladonna",
+  "name_match": true
+ },
+ "427": {
+  "verifier_id": 4374,
+  "verifier_name": "VoTcHi",
+  "api_name": "The Hallucination",
+  "name_match": true
+ },
+ "485": {
+  "verifier_id": 33116,
+  "verifier_name": "Polterghast",
+  "api_name": "Edge of Destiny",
+  "name_match": true
+ },
+ "511": {
+  "verifier_id": 54905,
+  "verifier_name": "[IH82P] Pukklez",
+  "api_name": "Codependence",
+  "name_match": true
+ },
+ "439": {
+  "verifier_id": 36906,
+  "verifier_name": "[DL] LordVadercraft",
+  "api_name": "Mayhem",
+  "name_match": true
+ },
+ "526": {
+  "verifier_id": 4543,
+  "verifier_name": "[SKWAD] Slithium",
+  "api_name": "COMBUSTION",
+  "name_match": true
+ },
+ "429": {
+  "verifier_id": 37331,
+  "verifier_name": "[LASER] Laysah",
+  "api_name": "walter white",
+  "name_match": true
+ },
+ "475": {
+  "verifier_id": 35840,
+  "verifier_name": "[TCD] Diamond",
+  "api_name": "UNKNOWN",
+  "name_match": true
+ },
+ "558": {
+  "verifier_id": 53295,
+  "verifier_name": "Jenath",
+  "api_name": "Deadlier Clubstep",
+  "name_match": true
+ },
+ "383": {
+  "verifier_id": 32883,
+  "verifier_name": "ultrakawaHD",
+  "api_name": "arcturus",
+  "name_match": true
+ },
+ "469": {
+  "verifier_id": 34881,
+  "verifier_name": "DarkTD",
+  "api_name": "Sinister Silence",
+  "name_match": true
+ },
+ "349": {
+  "verifier_id": 4238,
+  "verifier_name": "[1319] Xanii",
+  "api_name": "Sonic Wave Infinity",
+  "name_match": true
+ },
+ "547": {
+  "verifier_id": 56410,
+  "verifier_name": "skzyl",
+  "api_name": "SARYYX NEVER CLEAR",
+  "name_match": true
+ },
+ "521": {
+  "verifier_id": 32020,
+  "verifier_name": "Timo",
+  "api_name": "Damascus",
+  "name_match": true
+ },
+ "549": {
+  "verifier_id": 480,
+  "verifier_name": "[BLOOM] nei",
+  "api_name": "Midnight",
+  "name_match": true
+ },
+ "250": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Tartarus",
+  "name_match": true
+ },
+ "555": {
+  "verifier_id": 35407,
+  "verifier_name": "Gokill",
+  "api_name": "Jigsaw",
+  "name_match": true
+ },
+ "425": {
+  "verifier_id": 6185,
+  "verifier_name": "[DLNW] Dice88",
+  "api_name": "Oblivion",
+  "name_match": true
+ },
+ "274": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "The Golden",
+  "name_match": true
+ },
+ "393": {
+  "verifier_id": 251,
+  "verifier_name": "Nisha",
+  "api_name": "Verdant Landscape",
+  "name_match": true
+ },
+ "568": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "ATOMIC CANNON Mk III",
+  "name_match": true
+ },
+ "525": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Delta",
+  "name_match": true
+ },
+ "435": {
+  "verifier_id": 36251,
+  "verifier_name": "[YAHO] Baeru",
+  "api_name": "Shukketsu",
+  "name_match": true
+ },
+ "540": {
+  "verifier_id": 37603,
+  "verifier_name": "Wain",
+  "api_name": "Climax",
+  "name_match": true
+ },
+ "361": {
+  "verifier_id": 36251,
+  "verifier_name": "[YAHO] Baeru",
+  "api_name": "Trueffet",
+  "name_match": true
+ },
+ "412": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Aerial Gleam",
+  "name_match": true
+ },
+ "539": {
+  "verifier_id": 39738,
+  "verifier_name": "vulcanium4",
+  "api_name": "NETWORK",
+  "name_match": true
+ },
+ "478": {
+  "verifier_id": 36784,
+  "verifier_name": "[WBT] hstorm",
+  "api_name": "Critical Heat",
+  "name_match": true
+ },
+ "219": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Zodiac",
+  "name_match": true
+ },
+ "365": {
+  "verifier_id": 2275,
+  "verifier_name": "Varium",
+  "api_name": "Hard Machine",
+  "name_match": true
+ },
+ "497": {
+  "verifier_id": 31657,
+  "verifier_name": "Bigthunder556",
+  "api_name": "Terminal Rampancy",
+  "name_match": true
+ },
+ "420": {
+  "verifier_id": 36251,
+  "verifier_name": "[YAHO] Baeru",
+  "api_name": "Esfera",
+  "name_match": true
+ },
+ "238": {
+  "verifier_id": 478,
+  "verifier_name": "npesta",
+  "api_name": "Kenos",
+  "name_match": true
+ },
+ "377": {
+  "verifier_id": 34814,
+  "verifier_name": "Crisis",
+  "api_name": "Keres",
+  "name_match": true
+ },
+ "335": {
+  "verifier_id": 37306,
+  "verifier_name": "[PRIME] vaen",
+  "api_name": "Fragile",
+  "name_match": true
+ },
+ "542": {
+  "verifier_id": 2275,
+  "verifier_name": "Varium",
+  "api_name": "Frost Spirit",
+  "name_match": true
+ },
+ "553": {
+  "verifier_id": 35644,
+  "verifier_name": "[OG B] teraaa",
+  "api_name": "Crackhead Circles",
+  "name_match": true
+ },
+ "481": {
+  "verifier_id": 875,
+  "verifier_name": "AeonAir",
+  "api_name": "NEUTRA",
+  "name_match": true
+ },
+ "351": {
+  "verifier_id": 6447,
+  "verifier_name": "RicoLP",
+  "api_name": "Promethean",
+  "name_match": true
+ },
+ "389": {
+  "verifier_id": 68,
+  "verifier_name": "BrianTheBurger",
+  "api_name": "Lotus Flower",
+  "name_match": true
+ },
+ "273": {
+  "verifier_id": 39,
+  "verifier_name": "Atomic",
+  "api_name": "Thinking Space",
+  "name_match": true
+ },
+ "455": {
+  "verifier_id": 34896,
+  "verifier_name": "Franzy",
+  "api_name": "qoUEO",
+  "name_match": true
+ },
+ "453": {
+  "verifier_id": 33483,
+  "verifier_name": "[TCD] Cursed",
+  "api_name": "SUPERHATEMEWORLD",
+  "name_match": true
+ },
+ "293": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Cold Sweat",
+  "name_match": true
+ },
+ "494": {
+  "verifier_id": 40612,
+  "verifier_name": "｛出見塩｝",
+  "api_name": "Widestep",
+  "name_match": true
+ },
+ "63": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "Crimson Planet",
+  "name_match": true
+ },
+ "239": {
+  "verifier_id": 2764,
+  "verifier_name": "rori",
+  "api_name": "Renevant",
+  "name_match": true
+ },
+ "552": {
+  "verifier_id": 37779,
+  "verifier_name": "Browar",
+  "api_name": "ConClusion",
+  "name_match": true
+ },
+ "522": {
+  "verifier_id": 34585,
+  "verifier_name": "Dorvict",
+  "api_name": "Sky Shredder",
+  "name_match": true
+ },
+ "244": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Calculator Core",
+  "name_match": true
+ },
+ "530": {
+  "verifier_id": 51878,
+  "verifier_name": "[JUICE] Amplitron",
+  "api_name": "shimmer",
+  "name_match": true
+ },
+ "476": {
+  "verifier_id": 40546,
+  "verifier_name": "[TMG] SwordBx",
+  "api_name": "DIRECTIONS",
+  "name_match": true
+ },
+ "247": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "Cognition",
+  "name_match": true
+ },
+ "390": {
+  "verifier_id": 32605,
+  "verifier_name": "[HOLA] DoSh7t",
+  "api_name": "Cosmic Cyclone",
+  "name_match": true
+ },
+ "533": {
+  "verifier_id": 53649,
+  "verifier_name": "[USSR] ItzTayfun",
+  "api_name": "Trotil",
+  "name_match": true
+ },
+ "543": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "Amalgam",
+  "name_match": true
+ },
+ "316": {
+  "verifier_id": 597,
+  "verifier_name": "Spamdrew128",
+  "api_name": "SARY NEVER CLEAR",
+  "name_match": true
+ },
+ "524": {
+  "verifier_id": 39241,
+  "verifier_name": "[DL] Blitzer",
+  "api_name": "Instinct",
+  "name_match": true
+ },
+ "556": {
+  "verifier_id": 38793,
+  "verifier_name": "WatchPiggy",
+  "api_name": "Scream Machine",
+  "name_match": true
+ },
+ "112": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "Lucid Nightmares",
+  "name_match": true
+ },
+ "358": {
+  "verifier_id": 32118,
+  "verifier_name": "Keir",
+  "api_name": "RUST",
+  "name_match": true
+ },
+ "504": {
+  "verifier_id": 37523,
+  "verifier_name": "[COMET] Oscar ☄️",
+  "api_name": "CORRODERE",
+  "name_match": true
+ },
+ "509": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "ATOMIC CANNON Mk II",
+  "name_match": true
+ },
+ "415": {
+  "verifier_id": 32306,
+  "verifier_name": "kiseta",
+  "api_name": "Shardscapes",
+  "name_match": true
+ },
+ "354": {
+  "verifier_id": 4374,
+  "verifier_name": "VoTcHi",
+  "api_name": "Akashic Records",
+  "name_match": true
+ },
+ "466": {
+  "verifier_id": 37306,
+  "verifier_name": "[PRIME] vaen",
+  "api_name": "RUTHLESS",
+  "name_match": true
+ },
+ "536": {
+  "verifier_id": 3628,
+  "verifier_name": "rqd",
+  "api_name": "Sides Of My Mind",
+  "name_match": true
+ },
+ "535": {
+  "verifier_id": 31430,
+  "verifier_name": "Ryclix",
+  "api_name": "Horros",
+  "name_match": true
+ },
+ "91": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Ragnarok",
+  "name_match": true
+ },
+ "503": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Escape Room",
+  "name_match": true
+ },
+ "513": {
+  "verifier_id": 50381,
+  "verifier_name": "[TA] Slijee",
+  "api_name": "TORN",
+  "name_match": true
+ },
+ "564": {
+  "verifier_id": 34884,
+  "verifier_name": "[IH82P] Motor8",
+  "api_name": "me when machine gang",
+  "name_match": true
+ },
+ "465": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Launchpad Labyrinth",
+  "name_match": true
+ },
+ "337": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Silent Club",
+  "name_match": true
+ },
+ "400": {
+  "verifier_id": 3421,
+  "verifier_name": "[1319] BUNNYGRAM",
+  "api_name": "Descent Into Exile",
+  "name_match": true
+ },
+ "338": {
+  "verifier_id": 4978,
+  "verifier_name": "RG",
+  "api_name": "Omega Interface",
+  "name_match": true
+ },
+ "339": {
+  "verifier_id": 36221,
+  "verifier_name": "Floofle",
+  "api_name": "Congregation",
+  "name_match": true
+ },
+ "560": {
+  "verifier_id": 1918,
+  "verifier_name": "[MAOR] TGM05",
+  "api_name": "Pandemonium",
+  "name_match": true
+ },
+ "324": {
+  "verifier_id": 34134,
+  "verifier_name": "[USSR] Dolphy",
+  "api_name": "The Rupture",
+  "name_match": true
+ },
+ "519": {
+  "verifier_id": 5436,
+  "verifier_name": "Leslie",
+  "api_name": "Jupiter My Favourite",
+  "name_match": true
+ },
+ "363": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "Kappa",
+  "name_match": true
+ },
+ "440": {
+  "verifier_id": 32175,
+  "verifier_name": "kyoto",
+  "api_name": "The Art of the Blade",
+  "name_match": true
+ },
+ "161": {
+  "verifier_id": 351,
+  "verifier_name": "knobbelboy",
+  "api_name": "Bloodlust",
+  "name_match": true
+ },
+ "506": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Fog",
+  "name_match": true
+ },
+ "508": {
+  "verifier_id": 50960,
+  "verifier_name": "[SWOON] Gnamolor",
+  "api_name": "Coral Cave",
+  "name_match": true
+ },
+ "352": {
+  "verifier_id": 39,
+  "verifier_name": "Atomic",
+  "api_name": "Asterios",
+  "name_match": true
+ },
+ "418": {
+  "verifier_id": 37651,
+  "verifier_name": "[MYS] Comlayze",
+  "api_name": "Jesse Pinkman",
+  "name_match": true
+ },
+ "395": {
+  "verifier_id": 32052,
+  "verifier_name": "Laniakea",
+  "api_name": "Terminux",
+  "name_match": true
+ },
+ "456": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "no jokes",
+  "name_match": true
+ },
+ "500": {
+  "verifier_id": 480,
+  "verifier_name": "[BLOOM] nei",
+  "api_name": "Twilight",
+  "name_match": true
+ },
+ "431": {
+  "verifier_id": 39713,
+  "verifier_name": "[PRIME] VARSE",
+  "api_name": "CITRA",
+  "name_match": true
+ },
+ "474": {
+  "verifier_id": 35291,
+  "verifier_name": "skycrab",
+  "api_name": "Sazerix",
+  "name_match": true
+ },
+ "566": {
+  "verifier_id": 875,
+  "verifier_name": "AeonAir",
+  "api_name": "BarbarosFinaleFinale",
+  "name_match": true
+ },
+ "477": {
+  "verifier_id": 39684,
+  "verifier_name": "noxiom",
+  "api_name": "Gracefully",
+  "name_match": true
+ },
+ "515": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Awedsy",
+  "name_match": true
+ },
+ "270": {
+  "verifier_id": 738,
+  "verifier_name": "Kotamon",
+  "api_name": "Aronia",
+  "name_match": true
+ },
+ "120": {
+  "verifier_id": 478,
+  "verifier_name": "npesta",
+  "api_name": "Deimos",
+  "name_match": true
+ },
+ "449": {
+  "verifier_id": 2881,
+  "verifier_name": "[YAHO] Seturan",
+  "api_name": "Pagoda",
+  "name_match": true
+ },
+ "563": {
+  "verifier_id": 5436,
+  "verifier_name": "Leslie",
+  "api_name": "Moving Forward",
+  "name_match": true
+ },
+ "401": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "ATOMIC CANNON",
+  "name_match": true
+ },
+ "129": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Sigma",
+  "name_match": true
+ },
+ "483": {
+  "verifier_id": 36833,
+  "verifier_name": "[S9] MahjongLegend",
+  "api_name": "Neon Skyline",
+  "name_match": true
+ },
+ "482": {
+  "verifier_id": 40816,
+  "verifier_name": "Helix",
+  "api_name": "Knights of Thunder",
+  "name_match": true
+ },
+ "550": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Atmos",
+  "name_match": true
+ },
+ "557": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "Ploink",
+  "name_match": true
+ },
+ "507": {
+  "verifier_id": 34641,
+  "verifier_name": "cobrablitz",
+  "api_name": "IthacropoliX",
+  "name_match": true
+ },
+ "336": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Nhelv",
+  "name_match": true
+ },
+ "437": {
+  "verifier_id": 1174,
+  "verifier_name": "[JOB] vinny",
+  "api_name": "untitled unmastered",
+  "name_match": true
+ },
+ "544": {
+  "verifier_id": 1903,
+  "verifier_name": "[KRAS] Bleamer",
+  "api_name": "Cicatrize",
+  "name_match": true
+ },
+ "561": {
+  "verifier_id": 41932,
+  "verifier_name": "Laurendi",
+  "api_name": "DsinK",
+  "name_match": true
+ },
+ "498": {
+  "verifier_id": 480,
+  "verifier_name": "[BLOOM] nei",
+  "api_name": "SAND SAILOR",
+  "name_match": true
+ },
+ "537": {
+  "verifier_id": 32175,
+  "verifier_name": "kyoto",
+  "api_name": "Farthest Outpost",
+  "name_match": true
+ },
+ "210": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Ouroboros",
+  "name_match": true
+ },
+ "567": {
+  "verifier_id": 52350,
+  "verifier_name": "mac",
+  "api_name": "CONNECT",
+  "name_match": true
+ },
+ "490": {
+  "verifier_id": 42066,
+  "verifier_name": "Masa1017",
+  "api_name": "Ourwa",
+  "name_match": true
+ },
+ "207": {
+  "verifier_id": 4765,
+  "verifier_name": "Gablor",
+  "api_name": "kowareta",
+  "name_match": true
+ },
+ "529": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "FRIDAY",
+  "name_match": true
+ },
+ "493": {
+  "verifier_id": 39592,
+  "verifier_name": "ZeusGD",
+  "api_name": "Dump",
+  "name_match": true
+ },
+ "127": {
+  "verifier_id": 2881,
+  "verifier_name": "[YAHO] Seturan",
+  "api_name": "Visible Ray",
+  "name_match": true
+ },
+ "518": {
+  "verifier_id": 41404,
+  "verifier_name": "spcreat",
+  "api_name": "Excruciation Chamber",
+  "name_match": true
+ },
+ "546": {
+  "verifier_id": 582,
+  "verifier_name": "Smokes",
+  "api_name": "Th3Dev0n",
+  "name_match": true
+ },
+ "2": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "The Yandere",
+  "name_match": true
+ },
+ "128": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "Arctic Lights",
+  "name_match": true
+ },
+ "565": {
+  "verifier_id": 52342,
+  "verifier_name": "bims",
+  "api_name": "WORSTBRAINMAP",
+  "name_match": true
+ },
+ "182": {
+  "verifier_id": 582,
+  "verifier_name": "Smokes",
+  "api_name": "Plasma Pulse Finale",
+  "name_match": true
+ },
+ "421": {
+  "verifier_id": 38287,
+  "verifier_name": "Acratic",
+  "api_name": "Gustavo Fring",
+  "name_match": true
+ },
+ "345": {
+  "verifier_id": 35284,
+  "verifier_name": "[sqwr] khrizmass",
+  "api_name": "Frozen Cave",
+  "name_match": true
+ },
+ "470": {
+  "verifier_id": 1918,
+  "verifier_name": "[MAOR] TGM05",
+  "api_name": "Fragmented",
+  "name_match": true
+ },
+ "569": {
+  "verifier_id": 37748,
+  "verifier_name": "[OG] ProudGiraffe311",
+  "api_name": "Dust Bowl",
+  "name_match": true
+ },
+ "362": {
+  "verifier_id": 33909,
+  "verifier_name": "[PRIME] waturn",
+  "api_name": "CHROMA FINALE",
+  "name_match": true
+ },
+ "451": {
+  "verifier_id": 40725,
+  "verifier_name": "maxis044",
+  "api_name": "SZYSLAK",
+  "name_match": true
+ },
+ "502": {
+  "verifier_id": 34258,
+  "verifier_name": "Blankb",
+  "api_name": "REPENTLESS",
+  "name_match": true
+ },
+ "364": {
+  "verifier_id": 4962,
+  "verifier_name": "royen",
+  "api_name": "Calamity",
+  "name_match": true
+ },
+ "479": {
+  "verifier_id": 39824,
+  "verifier_name": "[TCD] Denni",
+  "api_name": "AKIRA",
+  "name_match": true
+ },
+ "559": {
+  "verifier_id": 39610,
+  "verifier_name": "[YAHO] IcaroX",
+  "api_name": "Hardry",
+  "name_match": true
+ },
+ "512": {
+  "verifier_id": 34124,
+  "verifier_name": "Wolvez",
+  "api_name": "EGO KILLING",
+  "name_match": true
+ },
+ "538": {
+  "verifier_id": 33373,
+  "verifier_name": "[PRIME] Zipi",
+  "api_name": "RAM",
+  "name_match": true
+ },
+ "268": {
+  "verifier_id": 34221,
+  "verifier_name": "Temp",
+  "api_name": "Spectrum Cyclone",
+  "name_match": true
+ },
+ "505": {
+  "verifier_id": 33616,
+  "verifier_name": "[MoB] Fenix",
+  "api_name": "FusionDynamix",
+  "name_match": true
+ },
+ "534": {
+  "verifier_id": 44831,
+  "verifier_name": "kovosrutek",
+  "api_name": "nevermore",
+  "name_match": true
+ },
+ "532": {
+  "verifier_id": 35644,
+  "verifier_name": "[OG B] teraaa",
+  "api_name": "CRIDIUM",
+  "name_match": true
+ },
+ "517": {
+  "verifier_id": 3421,
+  "verifier_name": "[1319] BUNNYGRAM",
+  "api_name": "Fever Dream",
+  "name_match": true
+ },
+ "554": {
+  "verifier_id": 35841,
+  "verifier_name": "[USSR] BONN GD",
+  "api_name": "Kjdf8314jlfssf ",
+  "name_match": true
+ },
+ "276": {
+  "verifier_id": 32175,
+  "verifier_name": "kyoto",
+  "api_name": "Aquatic Auroras",
+  "name_match": true
+ },
+ "394": {
+  "verifier_id": 1800,
+  "verifier_name": "Ozzy",
+  "api_name": "Storming Summit",
+  "name_match": true
+ },
+ "404": {
+  "verifier_id": 37176,
+  "verifier_name": "MiniShoey",
+  "api_name": "Shutdown",
+  "name_match": true
+ },
+ "369": {
+  "verifier_id": 5753,
+  "verifier_name": "Zylenox",
+  "api_name": "Requiem",
+  "name_match": true
+ },
+ "417": {
+  "verifier_id": 41760,
+  "verifier_name": "DreamZoneGD",
+  "api_name": "ConTroller",
+  "name_match": true
+ },
+ "311": {
+  "verifier_id": 4886,
+  "verifier_name": "Nimbus",
+  "api_name": "Mirrored Calamity",
+  "name_match": true
+ },
+ "548": {
+  "verifier_id": 56410,
+  "verifier_name": "skzyl",
+  "api_name": "Obscura",
+  "name_match": true
+ },
+ "406": {
+  "verifier_id": 35341,
+  "verifier_name": "[JFREE] Johnfree",
+  "api_name": "Sparkling",
+  "name_match": true
+ },
+ "314": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "Eternal Moment",
+  "name_match": true
+ },
+ "430": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "RANDOM ACCESS MEMORY",
+  "name_match": true
+ },
+ "527": {
+  "verifier_id": 32629,
+  "verifier_name": "[FEBE] fakeblast",
+  "api_name": "Beyond Hell",
+  "name_match": true
+ },
+ "261": {
+  "verifier_id": 698,
+  "verifier_name": "xander",
+  "api_name": "Omega",
+  "name_match": true
+ },
+ "126": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Gamma",
+  "name_match": true
+ },
+ "510": {
+  "verifier_id": 38793,
+  "verifier_name": "WatchPiggy",
+  "api_name": "Dance of the Violins",
+  "name_match": true
+ },
+ "541": {
+  "verifier_id": 37351,
+  "verifier_name": "Gibiji",
+  "api_name": "network",
+  "name_match": true
+ },
+ "523": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Power Grid",
+  "name_match": true
+ },
+ "92": {
+  "verifier_id": 130,
+  "verifier_name": "DiamondSplash",
+  "api_name": "Spacial Rend",
+  "name_match": true
+ },
+ "178": {
+  "verifier_id": 36833,
+  "verifier_name": "[S9] MahjongLegend",
+  "api_name": "Hyper Paracosm",
+  "name_match": true
+ },
+ "436": {
+  "verifier_id": 35999,
+  "verifier_name": "Pi Guy",
+  "api_name": "of Ambrosia",
+  "name_match": true
+ },
+ "531": {
+  "verifier_id": 4531,
+  "verifier_name": "[1319] swiborg",
+  "api_name": "Collect All Pets",
+  "name_match": true
+ },
+ "514": {
+  "verifier_id": 39295,
+  "verifier_name": "[WBT] Taiago",
+  "api_name": "the wiener",
+  "name_match": true
+ },
+ "438": {
+  "verifier_id": 4962,
+  "verifier_name": "royen",
+  "api_name": "Dedohexdragon",
+  "name_match": true
+ },
+ "473": {
+  "verifier_id": 38223,
+  "verifier_name": "Dreamlight",
+  "api_name": "Ryft",
+  "name_match": true
+ },
+ "317": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Cybernetic Crescent",
+  "name_match": true
+ },
+ "282": {
+  "verifier_id": 39235,
+  "verifier_name": "VaporWubz",
+  "api_name": "Wasureta",
+  "name_match": true
+ },
+ "170": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Macabre",
+  "name_match": true
+ },
+ "488": {
+  "verifier_id": 32358,
+  "verifier_name": "L4tezk",
+  "api_name": "Edge of the World",
+  "name_match": true
+ },
+ "399": {
+  "verifier_id": 34268,
+  "verifier_name": "nac",
+  "api_name": "Sink",
+  "name_match": true
+ },
+ "492": {
+  "verifier_id": 35291,
+  "verifier_name": "skycrab",
+  "api_name": "Golden Club",
+  "name_match": true
+ },
+ "342": {
+  "verifier_id": 37485,
+  "verifier_name": "Alphanetic",
+  "api_name": "Molten Core",
+  "name_match": true
+ },
+ "441": {
+  "verifier_id": 5234,
+  "verifier_name": "kay.",
+  "api_name": "Loochiverse",
+  "name_match": true
+ },
+ "454": {
+  "verifier_id": 39290,
+  "verifier_name": "[DTC] Bibu",
+  "api_name": "ELLIPSISM",
+  "name_match": true
+ },
+ "491": {
+  "verifier_id": 41495,
+  "verifier_name": "Lia",
+  "api_name": "LUMINA",
+  "name_match": true
+ },
+ "332": {
+  "verifier_id": 3154,
+  "verifier_name": "[MOOSH] Moosh",
+  "api_name": "Sonic Wave Rebirth",
+  "name_match": true
+ },
+ "118": {
+  "verifier_id": 614,
+  "verifier_name": "Sunix",
+  "api_name": "Sonic Wave",
+  "name_match": true
+ },
+ "370": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Infinite Iniquity",
+  "name_match": true
+ },
+ "284": {
+  "verifier_id": 351,
+  "verifier_name": "knobbelboy",
+  "api_name": "Molten Gear",
+  "name_match": true
+ },
+ "432": {
+  "verifier_id": 33373,
+  "verifier_name": "[PRIME] Zipi",
+  "api_name": "Shmarley Ville",
+  "name_match": true
+ },
+ "397": {
+  "verifier_id": 35937,
+  "verifier_name": "cheyenne",
+  "api_name": "GONER",
+  "name_match": true
+ },
+ "350": {
+  "verifier_id": 520,
+  "verifier_name": "Rainstorm",
+  "api_name": "Sephiroth",
+  "name_match": true
+ },
+ "199": {
+  "verifier_id": 5638,
+  "verifier_name": "TGI",
+  "api_name": "Necromancer",
+  "name_match": true
+ },
+ "489": {
+  "verifier_id": 31606,
+  "verifier_name": "[DL] zoe",
+  "api_name": "Iris of a Puppeteer",
+  "name_match": true
+ },
+ "146": {
+  "verifier_id": 663,
+  "verifier_name": "TrusTa",
+  "api_name": "Yatagarasu",
+  "name_match": true
+ },
+ "283": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "Rage",
+  "name_match": true
+ },
+ "471": {
+  "verifier_id": 31621,
+  "verifier_name": "[S9] MinYong",
+  "api_name": "X0",
+  "name_match": true
+ },
+ "288": {
+  "verifier_id": 32306,
+  "verifier_name": "kiseta",
+  "api_name": "Edge of the Blade",
+  "name_match": true
+ },
+ "499": {
+  "verifier_id": 38223,
+  "verifier_name": "Dreamlight",
+  "api_name": "Silentium Clavas",
+  "name_match": true
+ },
+ "419": {
+  "verifier_id": 34268,
+  "verifier_name": "nac",
+  "api_name": "The Hell Nutz",
+  "name_match": true
+ },
+ "386": {
+  "verifier_id": 3971,
+  "verifier_name": "[SKWAD] Cersia",
+  "api_name": "Cersia Difficult",
+  "name_match": true
+ },
+ "245": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "xo",
+  "name_match": true
+ },
+ "119": {
+  "verifier_id": 452,
+  "verifier_name": "Mullsy",
+  "api_name": "Generic Wave",
+  "name_match": true
+ },
+ "85": {
+  "verifier_id": 445,
+  "verifier_name": "MrDash",
+  "api_name": "Titan Complex",
+  "name_match": true
+ },
+ "423": {
+  "verifier_id": 34124,
+  "verifier_name": "Wolvez",
+  "api_name": "Nunri",
+  "name_match": true
+ },
+ "378": {
+  "verifier_id": 597,
+  "verifier_name": "Spamdrew128",
+  "api_name": "Icotact",
+  "name_match": true
+ },
+ "405": {
+  "verifier_id": 34690,
+  "verifier_name": "Skipper",
+  "api_name": "Quantum Theory",
+  "name_match": true
+ },
+ "457": {
+  "verifier_id": 38788,
+  "verifier_name": "Dan2D",
+  "api_name": "memories",
+  "name_match": true
+ },
+ "450": {
+  "verifier_id": 33762,
+  "verifier_name": "rose;",
+  "api_name": "rosedynamix",
+  "name_match": true
+ },
+ "462": {
+  "verifier_id": 3111,
+  "verifier_name": "[BUTTE] Prolix",
+  "api_name": "BRKMGB8GJCZ",
+  "name_match": true
+ },
+ "452": {
+  "verifier_id": 3971,
+  "verifier_name": "[SKWAD] Cersia",
+  "api_name": "Cersia Madness",
+  "name_match": true
+ },
+ "484": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "MISFIRE",
+  "name_match": true
+ },
+ "368": {
+  "verifier_id": 33483,
+  "verifier_name": "[TCD] Cursed",
+  "api_name": "Kuzureta",
+  "name_match": true
+ },
+ "93": {
+  "verifier_id": 65,
+  "verifier_name": "BoldStep",
+  "api_name": "Erebus",
+  "name_match": true
+ },
+ "396": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Delebit Oblivio",
+  "name_match": true
+ },
+ "461": {
+  "verifier_id": 40964,
+  "verifier_name": "[DTC] Angel",
+  "api_name": "Retention Rush",
+  "name_match": true
+ },
+ "344": {
+  "verifier_id": 54219,
+  "verifier_name": "[DTC] Teno",
+  "api_name": "The Reaper",
+  "name_match": true
+ },
+ "448": {
+  "verifier_id": 2149,
+  "verifier_name": "YakobNugget",
+  "api_name": "Nightshade",
+  "name_match": true
+ },
+ "46": {
+  "verifier_id": 5459,
+  "verifier_name": "crohn44",
+  "api_name": "Sunset Sandstorm",
+  "name_match": true
+ },
+ "267": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Altered Ascent",
+  "name_match": true
+ },
+ "480": {
+  "verifier_id": 34726,
+  "verifier_name": "[COMET] Kaza",
+  "api_name": "reeses potentially",
+  "name_match": true
+ },
+ "198": {
+  "verifier_id": 507,
+  "verifier_name": "Plusxenon",
+  "api_name": "Dark Flare",
+  "name_match": true
+ },
+ "294": {
+  "verifier_id": 36398,
+  "verifier_name": "RevoltZy",
+  "api_name": "Chromatic Haze",
+  "name_match": true
+ },
+ "387": {
+  "verifier_id": 35942,
+  "verifier_name": "lamp86",
+  "api_name": "Ddiamond",
+  "name_match": true
+ },
+ "388": {
+  "verifier_id": 34258,
+  "verifier_name": "Blankb",
+  "api_name": "DubKore X",
+  "name_match": true
+ },
+ "54": {
+  "verifier_id": 32304,
+  "verifier_name": "supahant",
+  "api_name": "Celestial Force",
+  "name_match": true
+ },
+ "243": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Tapwreck",
+  "name_match": true
+ },
+ "381": {
+  "verifier_id": 32957,
+  "verifier_name": "FieRcE7",
+  "api_name": "RELENTLESS",
+  "name_match": true
+ },
+ "472": {
+  "verifier_id": 40725,
+  "verifier_name": "maxis044",
+  "api_name": "ameliorate",
+  "name_match": true
+ },
+ "88": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Devil Vortex",
+  "name_match": true
+ },
+ "315": {
+  "verifier_id": 5223,
+  "verifier_name": "[TCD] Doggie",
+  "api_name": "Timor",
+  "name_match": true
+ },
+ "102": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "super probably level",
+  "name_match": true
+ },
+ "122": {
+  "verifier_id": 35743,
+  "verifier_name": "[DTC] Kandai",
+  "api_name": "WOW",
+  "name_match": true
+ },
+ "459": {
+  "verifier_id": 41760,
+  "verifier_name": "DreamZoneGD",
+  "api_name": "ConFusion",
+  "name_match": true
+ },
+ "445": {
+  "verifier_id": 38481,
+  "verifier_name": "theworldofme",
+  "api_name": "Framework",
+  "name_match": true
+ },
+ "155": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Catalyze",
+  "name_match": true
+ },
+ "433": {
+  "verifier_id": 38191,
+  "verifier_name": "[meow] 5shine",
+  "api_name": "Raisins",
+  "name_match": true
+ },
+ "463": {
+  "verifier_id": 4359,
+  "verifier_name": "[HOLA] Almohadaless",
+  "api_name": "Dreams",
+  "name_match": true
+ },
+ "318": {
+  "verifier_id": 4335,
+  "verifier_name": "Colorbolt",
+  "api_name": "Lucid Chaos",
+  "name_match": true
+ },
+ "330": {
+  "verifier_id": 32052,
+  "verifier_name": "Laniakea",
+  "api_name": "Stygian Machinery",
+  "name_match": true
+ },
+ "86": {
+  "verifier_id": 1275,
+  "verifier_name": "Mix991",
+  "api_name": "Paroxysm",
+  "name_match": true
+ },
+ "90": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Freedom08",
+  "name_match": true
+ },
+ "385": {
+  "verifier_id": 38051,
+  "verifier_name": "JustJohn",
+  "api_name": "Jamboree",
+  "name_match": true
+ },
+ "5": {
+  "verifier_id": 37523,
+  "verifier_name": "[COMET] Oscar ☄️",
+  "api_name": "Photovoltaic II",
+  "name_match": true
+ },
+ "410": {
+  "verifier_id": 40725,
+  "verifier_name": "maxis044",
+  "api_name": "The Moon Below",
+  "name_match": true
+ },
+ "460": {
+  "verifier_id": 4294,
+  "verifier_name": "Extravagon",
+  "api_name": "Lateral Myst",
+  "name_match": true
+ },
+ "422": {
+  "verifier_id": 3971,
+  "verifier_name": "[SKWAD] Cersia",
+  "api_name": "Friday Vortex",
+  "name_match": true
+ },
+ "443": {
+  "verifier_id": 40531,
+  "verifier_name": "Litoks",
+  "api_name": "IMAPHONE",
+  "name_match": true
+ },
+ "444": {
+  "verifier_id": 3835,
+  "verifier_name": "Floppy",
+  "api_name": "Apollo 11",
+  "name_match": true
+ },
+ "446": {
+  "verifier_id": 37576,
+  "verifier_name": "Latko",
+  "api_name": "inanimate INSANITY",
+  "name_match": true
+ },
+ "458": {
+  "verifier_id": 40439,
+  "verifier_name": "Noxop",
+  "api_name": "Bitcrusher",
+  "name_match": true
+ },
+ "125": {
+  "verifier_id": 96,
+  "verifier_name": "combi",
+  "api_name": "Digital Descent",
+  "name_match": true
+ },
+ "87": {
+  "verifier_id": 642,
+  "verifier_name": "Zephal",
+  "api_name": "Stalemate Redux",
+  "name_match": true
+ },
+ "402": {
+  "verifier_id": 33909,
+  "verifier_name": "[PRIME] waturn",
+  "api_name": "TheCinnyBun",
+  "name_match": true
+ },
+ "67": {
+  "verifier_id": 614,
+  "verifier_name": "Sunix",
+  "api_name": "Cadrega City",
+  "name_match": true
+ },
+ "42": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "ZAPHKIEL",
+  "name_match": true
+ },
+ "159": {
+  "verifier_id": 160,
+  "verifier_name": "Enzeux",
+  "api_name": "Factory Realm X",
+  "name_match": true
+ },
+ "447": {
+  "verifier_id": 4879,
+  "verifier_name": "CaustiX",
+  "api_name": "Springtime",
+  "name_match": true
+ },
+ "416": {
+  "verifier_id": 825,
+  "verifier_name": "Jeyzor",
+  "api_name": "Dole Damos",
+  "name_match": true
+ },
+ "382": {
+  "verifier_id": 39241,
+  "verifier_name": "[DL] Blitzer",
+  "api_name": "RGB",
+  "name_match": true
+ },
+ "153": {
+  "verifier_id": 56410,
+  "verifier_name": "skzyl",
+  "api_name": "Delta Interface",
+  "name_match": true
+ },
+ "211": {
+  "verifier_id": 65,
+  "verifier_name": "BoldStep",
+  "api_name": "Killbot",
+  "name_match": true
+ },
+ "296": {
+  "verifier_id": 1216,
+  "verifier_name": "Nexus",
+  "api_name": "Omicron",
+  "name_match": true
+ },
+ "248": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Tempered Steel",
+  "name_match": true
+ },
+ "408": {
+  "verifier_id": 37306,
+  "verifier_name": "[PRIME] vaen",
+  "api_name": "vaenstep",
+  "name_match": true
+ },
+ "89": {
+  "verifier_id": 65,
+  "verifier_name": "BoldStep",
+  "api_name": "Step To Hell",
+  "name_match": true
+ },
+ "343": {
+  "verifier_id": 5732,
+  "verifier_name": "benedikT",
+  "api_name": "Auroral Darkness",
+  "name_match": true
+ },
+ "353": {
+  "verifier_id": 346,
+  "verifier_name": "Kevelia",
+  "api_name": "Solarion",
+  "name_match": true
+ },
+ "156": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Demonicat",
+  "name_match": true
+ },
+ "407": {
+  "verifier_id": 41751,
+  "verifier_name": "Asuith",
+  "api_name": "Black Flag",
+  "name_match": true
+ },
+ "45": {
+  "verifier_id": 251,
+  "verifier_name": "Nisha",
+  "api_name": "Fabrication",
+  "name_match": true
+ },
+ "255": {
+  "verifier_id": 454,
+  "verifier_name": "Mycrafted",
+  "api_name": "Ethereal Artifice",
+  "name_match": true
+ },
+ "47": {
+  "verifier_id": 96,
+  "verifier_name": "combi",
+  "api_name": "Artificial Ascent",
+  "name_match": true
+ },
+ "426": {
+  "verifier_id": 31713,
+  "verifier_name": "ButterFish",
+  "api_name": "Effect II",
+  "name_match": true
+ },
+ "409": {
+  "verifier_id": 3971,
+  "verifier_name": "[SKWAD] Cersia",
+  "api_name": "Quantum Dynamix",
+  "name_match": true
+ },
+ "434": {
+  "verifier_id": 36836,
+  "verifier_name": "neoraptor",
+  "api_name": "Future Chaos",
+  "name_match": true
+ },
+ "384": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Luxtra",
+  "name_match": true
+ },
+ "287": {
+  "verifier_id": 875,
+  "verifier_name": "AeonAir",
+  "api_name": "Occult Outcry",
+  "name_match": true
+ },
+ "271": {
+  "verifier_id": 520,
+  "verifier_name": "Rainstorm",
+  "api_name": "Aesthetic",
+  "name_match": true
+ },
+ "289": {
+  "verifier_id": 3154,
+  "verifier_name": "[MOOSH] Moosh",
+  "api_name": "Yuh",
+  "name_match": true
+ },
+ "424": {
+  "verifier_id": 35394,
+  "verifier_name": "Hypno",
+  "api_name": "Polygonal Paradox",
+  "name_match": true
+ },
+ "44": {
+  "verifier_id": 5638,
+  "verifier_name": "TGI",
+  "api_name": "Missing Benefits",
+  "name_match": true
+ },
+ "398": {
+  "verifier_id": 698,
+  "verifier_name": "xander",
+  "api_name": "Mind Control",
+  "name_match": true
+ },
+ "403": {
+  "verifier_id": 5436,
+  "verifier_name": "Leslie",
+  "api_name": "Night Rider",
+  "name_match": true
+ },
+ "40": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "The Hell Field",
+  "name_match": true
+ },
+ "68": {
+  "verifier_id": 522,
+  "verifier_name": "Rampage",
+  "api_name": "Quantum Processing",
+  "name_match": true
+ },
+ "414": {
+  "verifier_id": 31713,
+  "verifier_name": "ButterFish",
+  "api_name": "lodin da fish washer",
+  "name_match": true
+ },
+ "94": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "BBBBBBBBBBBBBBBBBBBB",
+  "name_match": true
+ },
+ "162": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "The Hell Zone",
+  "name_match": true
+ },
+ "200": {
+  "verifier_id": 68,
+  "verifier_name": "BrianTheBurger",
+  "api_name": "Belloq",
+  "name_match": true
+ },
+ "6": {
+  "verifier_id": 65,
+  "verifier_name": "BoldStep",
+  "api_name": "Glowy",
+  "name_match": true
+ },
+ "375": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Crystal",
+  "name_match": true
+ },
+ "366": {
+  "verifier_id": 50592,
+  "verifier_name": "GPC Ashe",
+  "api_name": "Boogie",
+  "name_match": true
+ },
+ "411": {
+  "verifier_id": 32021,
+  "verifier_name": "Plasmalust",
+  "api_name": "Quaoar",
+  "name_match": true
+ },
+ "43": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Rate Demon",
+  "name_match": true
+ },
+ "259": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Void Wave",
+  "name_match": true
+ },
+ "206": {
+  "verifier_id": 33375,
+  "verifier_name": "TigerXero",
+  "api_name": "Bausha Vortex",
+  "name_match": true
+ },
+ "360": {
+  "verifier_id": 3835,
+  "verifier_name": "Floppy",
+  "api_name": "Spectrum Rave",
+  "name_match": true
+ },
+ "374": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "Never Beat It",
+  "name_match": true
+ },
+ "252": {
+  "verifier_id": 34221,
+  "verifier_name": "Temp",
+  "api_name": "Balengu Vortex",
+  "name_match": true
+ },
+ "246": {
+  "verifier_id": 5240,
+  "verifier_name": "nSwish",
+  "api_name": "Bass Cave",
+  "name_match": true
+ },
+ "53": {
+  "verifier_id": 5638,
+  "verifier_name": "TGI",
+  "api_name": "distraught",
+  "name_match": true
+ },
+ "321": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Sinister Incision",
+  "name_match": true
+ },
+ "373": {
+  "verifier_id": 33691,
+  "verifier_name": "[RR] Magmeta",
+  "api_name": "Static Ignition",
+  "name_match": true
+ },
+ "264": {
+  "verifier_id": 1818,
+  "verifier_name": "Darkswe",
+  "api_name": "Berserk",
+  "name_match": true
+ },
+ "204": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Black Blizzard",
+  "name_match": true
+ },
+ "65": {
+  "verifier_id": 2130,
+  "verifier_name": "Gabs",
+  "api_name": "Auditory Breaker",
+  "name_match": true
+ },
+ "95": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Ziroikabi",
+  "name_match": true
+ },
+ "359": {
+  "verifier_id": 2418,
+  "verifier_name": "knoeppel",
+  "api_name": "Pandemonium",
+  "name_match": true
+ },
+ "392": {
+  "verifier_id": 32351,
+  "verifier_name": "Sillow",
+  "api_name": "SECTOR 19",
+  "name_match": true
+ },
+ "203": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Hatred",
+  "name_match": true
+ },
+ "66": {
+  "verifier_id": 68,
+  "verifier_name": "BrianTheBurger",
+  "api_name": "Furious Flames",
+  "name_match": true
+ },
+ "328": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "The Hell Inferno",
+  "name_match": true
+ },
+ "371": {
+  "verifier_id": 1800,
+  "verifier_name": "Ozzy",
+  "api_name": "ErebuS",
+  "name_match": true
+ },
+ "7": {
+  "verifier_id": 5986,
+  "verifier_name": "Clumps",
+  "api_name": "Cadrega Mode",
+  "name_match": true
+ },
+ "307": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Hyper Paradox",
+  "name_match": true
+ },
+ "355": {
+  "verifier_id": 33909,
+  "verifier_name": "[PRIME] waturn",
+  "api_name": "CHROMA II",
+  "name_match": true
+ },
+ "84": {
+  "verifier_id": 1216,
+  "verifier_name": "Nexus",
+  "api_name": "BuTiTi III",
+  "name_match": true
+ },
+ "82": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Ziroikapi",
+  "name_match": true
+ },
+ "376": {
+  "verifier_id": 5368,
+  "verifier_name": "[PRIME] Divina",
+  "api_name": "DMG CTRL",
+  "name_match": true
+ },
+ "240": {
+  "verifier_id": 346,
+  "verifier_name": "Kevelia",
+  "api_name": "Surge of Memories",
+  "name_match": true
+ },
+ "295": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Carcano",
+  "name_match": true
+ },
+ "241": {
+  "verifier_id": 351,
+  "verifier_name": "knobbelboy",
+  "api_name": "Astral Divinity",
+  "name_match": true
+ },
+ "285": {
+  "verifier_id": 2130,
+  "verifier_name": "Gabs",
+  "api_name": "Surge of the Shield",
+  "name_match": true
+ },
+ "306": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "2 1 1",
+  "name_match": true
+ },
+ "249": {
+  "verifier_id": 160,
+  "verifier_name": "Enzeux",
+  "api_name": "Dolos",
+  "name_match": true
+ },
+ "269": {
+  "verifier_id": 4237,
+  "verifier_name": "Zagros",
+  "api_name": "Glitched Memories",
+  "name_match": true
+ },
+ "213": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Audio Expulsion",
+  "name_match": true
+ },
+ "372": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "MONSTROSITY",
+  "name_match": true
+ },
+ "231": {
+  "verifier_id": 1275,
+  "verifier_name": "Mix991",
+  "api_name": "Anoxysm",
+  "name_match": true
+ },
+ "147": {
+  "verifier_id": 96,
+  "verifier_name": "combi",
+  "api_name": "SubSonic",
+  "name_match": true
+ },
+ "327": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "ikaros",
+  "name_match": true
+ },
+ "326": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Mujigae",
+  "name_match": true
+ },
+ "312": {
+  "verifier_id": 33530,
+  "verifier_name": "FrostBurn",
+  "api_name": "Betrayal of Destiny",
+  "name_match": true
+ },
+ "4": {
+  "verifier_id": 5436,
+  "verifier_name": "Leslie",
+  "api_name": "Shock Therapy",
+  "name_match": true
+ },
+ "333": {
+  "verifier_id": 39241,
+  "verifier_name": "[DL] Blitzer",
+  "api_name": "i hate you",
+  "name_match": true
+ },
+ "27": {
+  "verifier_id": 351,
+  "verifier_name": "knobbelboy",
+  "api_name": "SINGULARITY",
+  "name_match": true
+ },
+ "83": {
+  "verifier_id": 686,
+  "verifier_name": "Waivve",
+  "api_name": "Breakout Redux",
+  "name_match": true
+ },
+ "124": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "The Hell World",
+  "name_match": true
+ },
+ "260": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Low Death",
+  "name_match": true
+ },
+ "41": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Athanatos",
+  "name_match": true
+ },
+ "356": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Anahita",
+  "name_match": true
+ },
+ "348": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Adrenaline",
+  "name_match": true
+ },
+ "265": {
+  "verifier_id": 1348,
+  "verifier_name": "[tq] jbmoon",
+  "api_name": "Galactic Shift",
+  "name_match": true
+ },
+ "242": {
+  "verifier_id": 1303,
+  "verifier_name": "Cinci",
+  "api_name": "SPEEDRUN",
+  "name_match": true
+ },
+ "346": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Kinetic Bypass",
+  "name_match": true
+ },
+ "298": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Shock Breaker",
+  "name_match": true
+ },
+ "357": {
+  "verifier_id": 39272,
+  "verifier_name": "DreamTide",
+  "api_name": "Endless Dream",
+  "name_match": true
+ },
+ "38": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Infernal Abyss",
+  "name_match": true
+ },
+ "281": {
+  "verifier_id": 2149,
+  "verifier_name": "YakobNugget",
+  "api_name": "Fabricated Thoughts",
+  "name_match": true
+ },
+ "347": {
+  "verifier_id": 32753,
+  "verifier_name": "crumche",
+  "api_name": "RASH",
+  "name_match": true
+ },
+ "37": {
+  "verifier_id": 575,
+  "verifier_name": "[MFC] Skulzi",
+  "api_name": "Ithacropolis",
+  "name_match": true
+ },
+ "334": {
+  "verifier_id": 37368,
+  "verifier_name": "Kelvin",
+  "api_name": "OPSM1",
+  "name_match": true
+ },
+ "292": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Disentombed",
+  "name_match": true
+ },
+ "74": {
+  "verifier_id": 518,
+  "verifier_name": "Rain22",
+  "api_name": "TeaM Z",
+  "name_match": true
+ },
+ "72": {
+  "verifier_id": 271,
+  "verifier_name": "GunnerBones",
+  "api_name": "MadMansion",
+  "name_match": true
+ },
+ "171": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Mystic",
+  "name_match": true
+ },
+ "329": {
+  "verifier_id": 39514,
+  "verifier_name": "efext",
+  "api_name": "SHATTER",
+  "name_match": true
+ },
+ "165": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "The Hell Origin",
+  "name_match": true
+ },
+ "313": {
+  "verifier_id": 33017,
+  "verifier_name": "Yoshikawa",
+  "api_name": "DARKENED",
+  "name_match": true
+ },
+ "341": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Advanced AirStream",
+  "name_match": true
+ },
+ "1": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "EnvY",
+  "name_match": true
+ },
+ "52": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Carnage Mode",
+  "name_match": true
+ },
+ "340": {
+  "verifier_id": 4765,
+  "verifier_name": "Gablor",
+  "api_name": "Removed Submission",
+  "name_match": true
+ },
+ "3": {
+  "verifier_id": 588,
+  "verifier_name": "Sonic80",
+  "api_name": "Asmodeus",
+  "name_match": true
+ },
+ "291": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Tenth Circle",
+  "name_match": true
+ },
+ "266": {
+  "verifier_id": 5436,
+  "verifier_name": "Leslie",
+  "api_name": "Fusion Z",
+  "name_match": true
+ },
+ "331": {
+  "verifier_id": 32164,
+  "verifier_name": "s3batr0nic",
+  "api_name": "Untitled",
+  "name_match": true
+ },
+ "297": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Falcon16",
+  "name_match": true
+ },
+ "322": {
+  "verifier_id": 174,
+  "verifier_name": "kota",
+  "api_name": "Alpha Baa X",
+  "name_match": true
+ },
+ "201": {
+  "verifier_id": 4557,
+  "verifier_name": "FarzzZinjj",
+  "api_name": "VendetTa",
+  "name_match": true
+ },
+ "205": {
+  "verifier_id": 2130,
+  "verifier_name": "Gabs",
+  "api_name": "Dimension Breaker",
+  "name_match": true
+ },
+ "202": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Phobos",
+  "name_match": true
+ },
+ "320": {
+  "verifier_id": 4238,
+  "verifier_name": "[1319] Xanii",
+  "api_name": "Shibui",
+  "name_match": true
+ },
+ "30": {
+  "verifier_id": 663,
+  "verifier_name": "TrusTa",
+  "api_name": "Sakupen Hell",
+  "name_match": true
+ },
+ "275": {
+  "verifier_id": 6238,
+  "verifier_name": "Zeronium",
+  "api_name": "Dimensional Breaking",
+  "name_match": true
+ },
+ "101": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Ancestral Calamity",
+  "name_match": true
+ },
+ "123": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "Silentium Gradas",
+  "name_match": true
+ },
+ "70": {
+  "verifier_id": 6447,
+  "verifier_name": "RicoLP",
+  "api_name": "Blade of Justice",
+  "name_match": true
+ },
+ "325": {
+  "verifier_id": 352,
+  "verifier_name": "Koreaqwer",
+  "api_name": "Libertas",
+  "name_match": true
+ },
+ "197": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Betrayal of Fate",
+  "name_match": true
+ },
+ "280": {
+  "verifier_id": 3114,
+  "verifier_name": "ARtu",
+  "api_name": "Biohazard",
+  "name_match": true
+ },
+ "39": {
+  "verifier_id": 182,
+  "verifier_name": "f3lixsram",
+  "api_name": "Artifice",
+  "name_match": true
+ },
+ "81": {
+  "verifier_id": 130,
+  "verifier_name": "DiamondSplash",
+  "api_name": "Epsilon",
+  "name_match": true
+ },
+ "79": {
+  "verifier_id": 68,
+  "verifier_name": "BrianTheBurger",
+  "api_name": "Atmosphere",
+  "name_match": true
+ },
+ "69": {
+  "verifier_id": 539,
+  "verifier_name": "Riot",
+  "api_name": "Bloodbath",
+  "name_match": true
+ },
+ "319": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Monstercat",
+  "name_match": true
+ },
+ "309": {
+  "verifier_id": 4179,
+  "verifier_name": "MiniWheatDuo",
+  "api_name": "Glacial Torrent",
+  "name_match": true
+ },
+ "254": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "ElectroLux",
+  "name_match": true
+ },
+ "308": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Molten Mercury",
+  "name_match": true
+ },
+ "34": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Under lavaland",
+  "name_match": true
+ },
+ "278": {
+  "verifier_id": 6475,
+  "verifier_name": "Demented",
+  "api_name": "Hateful Reflection",
+  "name_match": true
+ },
+ "310": {
+  "verifier_id": 37774,
+  "verifier_name": "SleyGD",
+  "api_name": "Ecstasy",
+  "name_match": true
+ },
+ "80": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "ATMarbl",
+  "name_match": true
+ },
+ "277": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Azure Fiesta",
+  "name_match": true
+ },
+ "230": {
+  "verifier_id": 5379,
+  "verifier_name": "Gizbro",
+  "api_name": "The Hell Bird",
+  "name_match": true
+ },
+ "77": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Down Bass",
+  "name_match": true
+ },
+ "168": {
+  "verifier_id": 32605,
+  "verifier_name": "[HOLA] DoSh7t",
+  "api_name": "Idols",
+  "name_match": true
+ },
+ "258": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Just DANCE",
+  "name_match": true
+ },
+ "305": {
+  "verifier_id": 37059,
+  "verifier_name": "Vorgogne",
+  "api_name": "Inflective",
+  "name_match": true
+ },
+ "35": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Conical Depression",
+  "name_match": true
+ },
+ "272": {
+  "verifier_id": 4389,
+  "verifier_name": "LimeTime313",
+  "api_name": "phosphorescent",
+  "name_match": true
+ },
+ "251": {
+  "verifier_id": 5379,
+  "verifier_name": "Gizbro",
+  "api_name": "Prismatic Haze",
+  "name_match": true
+ },
+ "279": {
+  "verifier_id": 4886,
+  "verifier_name": "Nimbus",
+  "api_name": "Tempest Tornado",
+  "name_match": true
+ },
+ "36": {
+  "verifier_id": 780,
+  "verifier_name": "TheKris",
+  "api_name": "Aurora",
+  "name_match": true
+ },
+ "172": {
+  "verifier_id": 31584,
+  "verifier_name": "zMarc",
+  "api_name": "Arctic Arena",
+  "name_match": true
+ },
+ "33": {
+  "verifier_id": 351,
+  "verifier_name": "knobbelboy",
+  "api_name": "Artificial Ideology",
+  "name_match": true
+ },
+ "169": {
+  "verifier_id": 261,
+  "verifier_name": "GoodSmile",
+  "api_name": "A Bizarre Phantasm",
+  "name_match": true
+ },
+ "96": {
+  "verifier_id": 510,
+  "verifier_name": "Powerbomb",
+  "api_name": "The Hell Factory",
+  "name_match": true
+ },
+ "32": {
+  "verifier_id": 5753,
+  "verifier_name": "Zylenox",
+  "api_name": "Annihilation Nation",
+  "name_match": true
+ },
+ "290": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Mirage",
+  "name_match": true
+ },
+ "286": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Sigma Interface",
+  "name_match": true
+ },
+ "28": {
+  "verifier_id": 4294,
+  "verifier_name": "Extravagon",
+  "api_name": "Extinction",
+  "name_match": true
+ },
+ "71": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Esencia",
+  "name_match": true
+ },
+ "31": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "WaveBreaker",
+  "name_match": true
+ },
+ "75": {
+  "verifier_id": 792,
+  "verifier_name": "nwolc",
+  "api_name": "Penultimate Phase",
+  "name_match": true
+ },
+ "104": {
+  "verifier_id": 551,
+  "verifier_name": "Satcho",
+  "api_name": "aftermath",
+  "name_match": true
+ },
+ "209": {
+  "verifier_id": 1303,
+  "verifier_name": "Cinci",
+  "api_name": "INNARDS",
+  "name_match": true
+ },
+ "105": {
+  "verifier_id": 1269,
+  "verifier_name": "WormFodder",
+  "api_name": "GridLocked",
+  "name_match": true
+ },
+ "76": {
+  "verifier_id": 582,
+  "verifier_name": "Smokes",
+  "api_name": "Plasma Pulse III",
+  "name_match": true
+ },
+ "121": {
+  "verifier_id": 268,
+  "verifier_name": "Gryllex",
+  "api_name": "Novalis",
+  "name_match": true
+ },
+ "263": {
+  "verifier_id": 2149,
+  "verifier_name": "YakobNugget",
+  "api_name": "Maybe Possibly Thing",
+  "name_match": true
+ },
+ "262": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "N0",
+  "name_match": true
+ },
+ "212": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "The Hell Dignity",
+  "name_match": true
+ },
+ "29": {
+  "verifier_id": 5753,
+  "verifier_name": "Zylenox",
+  "api_name": "Triple Six",
+  "name_match": true
+ },
+ "73": {
+  "verifier_id": 352,
+  "verifier_name": "Koreaqwer",
+  "api_name": "Niflheim",
+  "name_match": true
+ },
+ "64": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Panasonic",
+  "name_match": true
+ },
+ "257": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "A2Marbl",
+  "name_match": true
+ },
+ "62": {
+  "verifier_id": 3117,
+  "verifier_name": "Syndrome GMD",
+  "api_name": "limitless",
+  "name_match": true
+ },
+ "195": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "The Antimatter",
+  "name_match": true
+ },
+ "236": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Marathon",
+  "name_match": true
+ },
+ "167": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Audio Extraction",
+  "name_match": true
+ },
+ "166": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Elite Z Rebirth",
+  "name_match": true
+ },
+ "196": {
+  "verifier_id": 65,
+  "verifier_name": "BoldStep",
+  "api_name": "Twisted Tranquility",
+  "name_match": true
+ },
+ "78": {
+  "verifier_id": 478,
+  "verifier_name": "npesta",
+  "api_name": "Unearthed",
+  "name_match": true
+ },
+ "138": {
+  "verifier_id": 931,
+  "verifier_name": "[st] Technical",
+  "api_name": "Breakout",
+  "name_match": true
+ },
+ "25": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Grill Kill",
+  "name_match": true
+ },
+ "233": {
+  "verifier_id": 32624,
+  "verifier_name": "Wooshi",
+  "api_name": "Concaved Memories",
+  "name_match": true
+ },
+ "256": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Elliptic Curve",
+  "name_match": true
+ },
+ "137": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Heat Wave",
+  "name_match": true
+ },
+ "220": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Heartbeat",
+  "name_match": true
+ },
+ "164": {
+  "verifier_id": 56,
+  "verifier_name": "Berke423",
+  "api_name": "Deception Dive",
+  "name_match": true
+ },
+ "163": {
+  "verifier_id": 520,
+  "verifier_name": "Rainstorm",
+  "api_name": "Skrrah",
+  "name_match": true
+ },
+ "26": {
+  "verifier_id": 663,
+  "verifier_name": "TrusTa",
+  "api_name": "The Flawless",
+  "name_match": true
+ },
+ "59": {
+  "verifier_id": 31685,
+  "verifier_name": "[MYS] SkyJax",
+  "api_name": "Fexty",
+  "name_match": true
+ },
+ "235": {
+  "verifier_id": 32264,
+  "verifier_name": "Giron",
+  "api_name": "Digital Disarray",
+  "name_match": true
+ },
+ "229": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "NecropoliX",
+  "name_match": true
+ },
+ "190": {
+  "verifier_id": 695,
+  "verifier_name": "WOOGI1411",
+  "api_name": "Retention",
+  "name_match": true
+ },
+ "151": {
+  "verifier_id": 1168,
+  "verifier_name": "GK Allium",
+  "api_name": "CholeriX",
+  "name_match": true
+ },
+ "237": {
+  "verifier_id": 5433,
+  "verifier_name": "blazer2",
+  "api_name": "Alcatraz",
+  "name_match": true
+ },
+ "234": {
+  "verifier_id": 33299,
+  "verifier_name": "IIDustikII",
+  "api_name": "Insaction",
+  "name_match": true
+ },
+ "193": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Killerzone",
+  "name_match": true
+ },
+ "189": {
+  "verifier_id": 298,
+  "verifier_name": "iIiViRuZiIi",
+  "api_name": "Artificial Dream",
+  "name_match": true
+ },
+ "23": {
+  "verifier_id": 5459,
+  "verifier_name": "crohn44",
+  "api_name": "Glide",
+  "name_match": true
+ },
+ "61": {
+  "verifier_id": 539,
+  "verifier_name": "Riot",
+  "api_name": "Red World Rebirth",
+  "name_match": true
+ },
+ "160": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Violently X",
+  "name_match": true
+ },
+ "191": {
+  "verifier_id": 14672,
+  "verifier_name": "Jenkins GD",
+  "api_name": "Incipient",
+  "name_match": true
+ },
+ "157": {
+  "verifier_id": 1903,
+  "verifier_name": "[KRAS] Bleamer",
+  "api_name": "Cromulent",
+  "name_match": true
+ },
+ "232": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Exotic Energy",
+  "name_match": true
+ },
+ "136": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "Volume",
+  "name_match": true
+ },
+ "192": {
+  "verifier_id": 594,
+  "verifier_name": "SoulsTRK",
+  "api_name": "AcropoliX",
+  "name_match": true
+ },
+ "158": {
+  "verifier_id": 825,
+  "verifier_name": "Jeyzor",
+  "api_name": "Matilda the Machine",
+  "name_match": true
+ },
+ "60": {
+  "verifier_id": 584,
+  "verifier_name": "Snowr33de",
+  "api_name": "SUBVERSIVE",
+  "name_match": true
+ },
+ "58": {
+  "verifier_id": 34134,
+  "verifier_name": "[USSR] Dolphy",
+  "api_name": "Tech Manifestation",
+  "name_match": true
+ },
+ "135": {
+  "verifier_id": 256,
+  "verifier_name": "zeroya",
+  "api_name": "CYCLONE",
+  "name_match": true
+ },
+ "152": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "The Lost Existence",
+  "name_match": true
+ },
+ "154": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "UltraSans",
+  "name_match": true
+ },
+ "24": {
+  "verifier_id": 4968,
+  "verifier_name": "Kapinapi",
+  "api_name": "Raindance",
+  "name_match": true
+ },
+ "57": {
+  "verifier_id": 809,
+  "verifier_name": "Nacho21",
+  "api_name": "Duelo Maestro",
+  "name_match": true
+ },
+ "194": {
+  "verifier_id": 3659,
+  "verifier_name": "BlazeRol",
+  "api_name": "Polish Alphabet",
+  "name_match": true
+ },
+ "139": {
+  "verifier_id": 270,
+  "verifier_name": "GuitarHeroStyles",
+  "api_name": "Pumped Up Kicks",
+  "name_match": true
+ },
+ "22": {
+  "verifier_id": 14672,
+  "verifier_name": "Jenkins GD",
+  "api_name": "Zettabyte",
+  "name_match": true
+ },
+ "140": {
+  "verifier_id": 32264,
+  "verifier_name": "Giron",
+  "api_name": "Sky tech",
+  "name_match": true
+ },
+ "141": {
+  "verifier_id": 473,
+  "verifier_name": "nainteils",
+  "api_name": "Uprise",
+  "name_match": true
+ },
+ "115": {
+  "verifier_id": 387,
+  "verifier_name": "Luqualizer",
+  "api_name": "Awakening Horus",
+  "name_match": true
+ },
+ "8": {
+  "verifier_id": 541,
+  "verifier_name": "RLOL",
+  "api_name": "Gammaray",
+  "name_match": true
+ },
+ "143": {
+  "verifier_id": 31446,
+  "verifier_name": "Endlevel",
+  "api_name": "Allegiance",
+  "name_match": true
+ },
+ "114": {
+  "verifier_id": 541,
+  "verifier_name": "RLOL",
+  "api_name": "night party",
+  "name_match": true
+ },
+ "10": {
+  "verifier_id": 282,
+  "verifier_name": "HequinoX",
+  "api_name": "Instant Execution",
+  "name_match": true
+ },
+ "214": {
+  "verifier_id": 96,
+  "verifier_name": "combi",
+  "api_name": "HyperSonic",
+  "name_match": true
+ },
+ "142": {
+  "verifier_id": 539,
+  "verifier_name": "Riot",
+  "api_name": "Cataclysm",
+  "name_match": true
+ },
+ "186": {
+  "verifier_id": 555,
+  "verifier_name": "Sebquero11",
+  "api_name": "Cosmorush 21",
+  "name_match": true
+ },
+ "187": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Underground",
+  "name_match": true
+ },
+ "116": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Falling Up",
+  "name_match": true
+ },
+ "117": {
+  "verifier_id": 182,
+  "verifier_name": "f3lixsram",
+  "api_name": "8o X",
+  "name_match": true
+ },
+ "9": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Penombre",
+  "name_match": true
+ },
+ "109": {
+  "verifier_id": 4557,
+  "verifier_name": "FarzzZinjj",
+  "api_name": "Grimoire Heart",
+  "name_match": true
+ },
+ "11": {
+  "verifier_id": 32270,
+  "verifier_name": "KingDLetsPlay",
+  "api_name": "Dark Rivalry",
+  "name_match": true
+ },
+ "221": {
+  "verifier_id": 158,
+  "verifier_name": "Enlex",
+  "api_name": "Frizzantino Vibes",
+  "name_match": true
+ },
+ "51": {
+  "verifier_id": 588,
+  "verifier_name": "Sonic80",
+  "api_name": "Electrosonic",
+  "name_match": true
+ },
+ "130": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Cosmic Calamity",
+  "name_match": true
+ },
+ "183": {
+  "verifier_id": 781,
+  "verifier_name": "Pennutoh",
+  "api_name": "Excessive Compliment",
+  "name_match": true
+ },
+ "113": {
+  "verifier_id": 2167,
+  "verifier_name": "Lemons",
+  "api_name": "Superstrike",
+  "name_match": true
+ },
+ "131": {
+  "verifier_id": 1269,
+  "verifier_name": "WormFodder",
+  "api_name": "Doop",
+  "name_match": true
+ },
+ "132": {
+  "verifier_id": 2141,
+  "verifier_name": "MrSpaghetti",
+  "api_name": "Torrential Storm",
+  "name_match": true
+ },
+ "19": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Arcadelocked",
+  "name_match": true
+ },
+ "149": {
+  "verifier_id": 28,
+  "verifier_name": "Angelbaton",
+  "api_name": "Es Dilar Nos",
+  "name_match": true
+ },
+ "215": {
+  "verifier_id": 27,
+  "verifier_name": "Andromeda",
+  "api_name": "The Ultimate Phase",
+  "name_match": true
+ },
+ "148": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "Destruction of God",
+  "name_match": true
+ },
+ "222": {
+  "verifier_id": 1048,
+  "verifier_name": "Dorami",
+  "api_name": "AAAAAAAAAAAAAAAAAAAA",
+  "name_match": true
+ },
+ "100": {
+  "verifier_id": 513,
+  "verifier_name": "Quantum",
+  "api_name": "Photovoltaic",
+  "name_match": true
+ },
+ "134": {
+  "verifier_id": 2631,
+  "verifier_name": "Boyofthecones",
+  "api_name": "After Catabath",
+  "name_match": true
+ },
+ "173": {
+  "verifier_id": 185,
+  "verifier_name": "Eggnog",
+  "api_name": "Final Epilogue",
+  "name_match": true
+ },
+ "13": {
+  "verifier_id": 734,
+  "verifier_name": "Zalgaryth",
+  "api_name": "Astronomical Alchemy",
+  "name_match": true
+ },
+ "179": {
+  "verifier_id": 1694,
+  "verifier_name": "Golden",
+  "api_name": "Dark RainBow Rebirth",
+  "name_match": true
+ },
+ "111": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "ICE Carbon Diablo X",
+  "name_match": true
+ },
+ "133": {
+  "verifier_id": 220,
+  "verifier_name": "GDBrad",
+  "api_name": "Hydraulic Overdrive",
+  "name_match": true
+ },
+ "20": {
+  "verifier_id": 1100,
+  "verifier_name": "Demon MasterBR",
+  "api_name": "NecroDynamix",
+  "name_match": true
+ },
+ "108": {
+  "verifier_id": 816,
+  "verifier_name": "FROOZEE",
+  "api_name": "Galaxy Breaker",
+  "name_match": true
+ },
+ "106": {
+  "verifier_id": 98,
+  "verifier_name": "Aeidux",
+  "api_name": "Kurumi City",
+  "name_match": true
+ },
+ "17": {
+  "verifier_id": 660,
+  "verifier_name": "Tricks33",
+  "api_name": "Galatic Fragility",
+  "name_match": true
+ },
+ "228": {
+  "verifier_id": 45,
+  "verifier_name": "Aviila RX2X",
+  "api_name": "New Supersonic",
+  "name_match": true
+ },
+ "176": {
+  "verifier_id": 795,
+  "verifier_name": "CreeperMILK",
+  "api_name": "Creeper Force",
+  "name_match": true
+ },
+ "180": {
+  "verifier_id": 614,
+  "verifier_name": "Sunix",
+  "api_name": "Abandoned Kingdom",
+  "name_match": true
+ },
+ "208": {
+  "verifier_id": 813,
+  "verifier_name": "KeiAs",
+  "api_name": "Future Circles",
+  "name_match": true
+ },
+ "223": {
+  "verifier_id": 414,
+  "verifier_name": "MaxiS9",
+  "api_name": "Quest for Perfection",
+  "name_match": true
+ },
+ "227": {
+  "verifier_id": 754,
+  "verifier_name": "Hinds",
+  "api_name": "Cyber Chaos",
+  "name_match": true
+ },
+ "14": {
+  "verifier_id": 870,
+  "verifier_name": "DrakeGhast",
+  "api_name": "Temple of Destiny",
+  "name_match": true
+ },
+ "107": {
+  "verifier_id": 2631,
+  "verifier_name": "Boyofthecones",
+  "api_name": "Clubstep Reborn",
+  "name_match": true
+ },
+ "177": {
+  "verifier_id": 132,
+  "verifier_name": "DiscJoker",
+  "api_name": "Spectral Tentation",
+  "name_match": true
+ },
+ "56": {
+  "verifier_id": 796,
+  "verifier_name": "RedUniverse",
+  "api_name": "Crimson Clutter",
+  "name_match": true
+ },
+ "50": {
+  "verifier_id": 2014,
+  "verifier_name": "Miniman2098",
+  "api_name": "Demonic Bass",
+  "name_match": true
+ },
+ "225": {
+  "verifier_id": 695,
+  "verifier_name": "WOOGI1411",
+  "api_name": "Asymmetry",
+  "name_match": true
+ },
+ "216": {
+  "verifier_id": 6030,
+  "verifier_name": "-",
+  "api_name": "Rewind",
+  "name_match": true
+ },
+ "188": {
+  "verifier_id": 32264,
+  "verifier_name": "Giron",
+  "api_name": "Plasma Pulse II",
+  "name_match": true
+ },
+ "181": {
+  "verifier_id": 594,
+  "verifier_name": "SoulsTRK",
+  "api_name": "Elements X",
+  "name_match": true
+ },
+ "224": {
+  "verifier_id": 594,
+  "verifier_name": "SoulsTRK",
+  "api_name": "Wander of thought",
+  "name_match": true
+ },
+ "98": {
+  "verifier_id": 818,
+  "verifier_name": "Stormfly",
+  "api_name": "Hate War",
+  "name_match": true
+ },
+ "49": {
+  "verifier_id": 423,
+  "verifier_name": "Metalface221",
+  "api_name": "The Secret Box",
+  "name_match": true
+ },
+ "55": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Lunatic Doom Machine",
+  "name_match": true
+ },
+ "174": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Valor",
+  "name_match": true
+ },
+ "150": {
+  "verifier_id": 603,
+  "verifier_name": "[HOLA] SrGuillester",
+  "api_name": "Night Terrors",
+  "name_match": true
+ },
+ "97": {
+  "verifier_id": 2554,
+  "verifier_name": "Didx",
+  "api_name": "Hyperio Technia",
+  "name_match": true
+ },
+ "184": {
+  "verifier_id": 164,
+  "verifier_name": "evw",
+  "api_name": "Subterranean Animism",
+  "name_match": true
+ },
+ "145": {
+  "verifier_id": 354,
+  "verifier_name": "KrmaL",
+  "api_name": "Pursuit",
+  "name_match": true
+ },
+ "48": {
+  "verifier_id": 886,
+  "verifier_name": "The Railgunner",
+  "api_name": "Ultraviolet",
+  "name_match": true
+ },
+ "99": {
+  "verifier_id": 541,
+  "verifier_name": "RLOL",
+  "api_name": "Wolfstep",
+  "name_match": true
+ },
+ "226": {
+  "verifier_id": 582,
+  "verifier_name": "Smokes",
+  "api_name": "Light Years",
+  "name_match": true
+ },
+ "110": {
+  "verifier_id": 2013,
+  "verifier_name": "Feko9",
+  "api_name": "Geminorum",
+  "name_match": true
+ },
+ "15": {
+  "verifier_id": 498,
+  "verifier_name": "pasiblitz",
+  "api_name": "X Adventure",
+  "name_match": true
+ },
+ "12": {
+  "verifier_id": 352,
+  "verifier_name": "Koreaqwer",
+  "api_name": "Sparklic Ocean",
+  "name_match": true
+ },
+ "18": {
+  "verifier_id": 2065,
+  "verifier_name": "RyanAB",
+  "api_name": "DeltaNova",
+  "name_match": true
+ },
+ "103": {
+  "verifier_id": 836,
+  "verifier_name": "NePtunE",
+  "api_name": "Necropolis",
+  "name_match": true
+ },
+ "144": {
+  "verifier_id": 882,
+  "verifier_name": "Megadere",
+  "api_name": "The JanuS Miracle",
+  "name_match": true
+ },
+ "175": {
+  "verifier_id": 793,
+  "verifier_name": "Lalter",
+  "api_name": "Catastrophic",
+  "name_match": true
+ },
+ "16": {
+  "verifier_id": 617,
+  "verifier_name": "Surv",
+  "api_name": "Sadism",
+  "name_match": true
+ },
+ "218": {
+  "verifier_id": 1850,
+  "verifier_name": "ElectricBass",
+  "api_name": "DoomsDay",
+  "name_match": true
+ },
+ "185": {
+  "verifier_id": 2016,
+  "verifier_name": "Step4enko",
+  "api_name": "lezicuv",
+  "name_match": true
+ },
+ "217": {
+  "verifier_id": 811,
+  "verifier_name": "MidNight",
+  "api_name": "Entwined Room",
+  "name_match": true
+ },
+ "_meta": {
+  "source_input": "site/static/demonlist/demons-20240612.json",
+  "endpoint": "https://pointercrate.com/api/v2/demons/{id}/",
+  "fetched_at_utc": "2026-11-08T05:38:31+00:00",
+  "note": "verifier is immutable historical data; verifier_name is the player's CURRENT display name (2026), not the June-2024 name. No positions/records stored.",
+  "total": 559,
+  "processed": 559,
+  "with_verifier": 559,
+  "missing_404": 0,
+  "errors": 0,
+  "null_verifier": 0,
+  "name_mismatches": []
+ }
+}

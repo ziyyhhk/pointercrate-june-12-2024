@@ -1,0 +1,561 @@
+[
+ {
+  "ts": "20240418074653",
+  "host": "pointercrate.com",
+  "pos": 101,
+  "url": "https://web.archive.org/web/20240418074653id_/https://pointercrate.com/demonlist/101/",
+  "file": "101-20240418074653.html",
+  "status": "ok",
+  "bytes": 136719,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074608",
+  "host": "pointercrate.com",
+  "pos": 129,
+  "url": "https://web.archive.org/web/20240418074608id_/https://pointercrate.com/demonlist/129/",
+  "file": "129-20240418074608.html",
+  "status": "ok",
+  "bytes": 210987,
+  "http": "200"
+ },
+ {
+  "ts": "20240522004429",
+  "host": "pointercrate.com",
+  "pos": 149,
+  "url": "https://web.archive.org/web/20240522004429id_/https://pointercrate.com/demonlist/149/",
+  "file": "149-20240522004429.html",
+  "status": "reused-local",
+  "bytes": 116657
+ },
+ {
+  "ts": "20240418074607",
+  "host": "pointercrate.com",
+  "pos": 152,
+  "url": "https://web.archive.org/web/20240418074607id_/https://pointercrate.com/demonlist/152/",
+  "file": "152-20240418074607.html",
+  "status": "ok",
+  "bytes": 241049,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074655",
+  "host": "pointercrate.com",
+  "pos": 153,
+  "url": "https://web.archive.org/web/20240418074655id_/https://pointercrate.com/demonlist/153/",
+  "file": "153-20240418074655.html",
+  "status": "ok",
+  "bytes": 115132,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074522",
+  "host": "pointercrate.com",
+  "pos": 156,
+  "url": "https://web.archive.org/web/20240418074522id_/https://pointercrate.com/demonlist/156/",
+  "file": "156-20240418074522.html",
+  "status": "ok",
+  "bytes": 116772,
+  "http": "200"
+ },
+ {
+  "ts": "20240522004358",
+  "host": "pointercrate.com",
+  "pos": 160,
+  "url": "https://web.archive.org/web/20240522004358id_/https://pointercrate.com/demonlist/160/",
+  "file": "160-20240522004358.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240515165152",
+  "host": "pointercrate.com",
+  "pos": 166,
+  "url": "https://web.archive.org/web/20240515165152id_/https://pointercrate.com/demonlist/166/",
+  "file": "166-20240515165152.html",
+  "status": "failed",
+  "error": "http=302; playback redirects to https://web.archive.org/web/20250114035837id_/https://www.pointercrate.com/demonlist/166 (2024 capture unavailable)"
+ },
+ {
+  "ts": "20240704023209",
+  "host": "www.pointercrate.com",
+  "pos": 185,
+  "url": "https://web.archive.org/web/20240704023209id_/https://www.pointercrate.com/demonlist/185/",
+  "file": "185-20240704023209.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240418074626",
+  "host": "pointercrate.com",
+  "pos": 198,
+  "url": "https://web.archive.org/web/20240418074626id_/https://pointercrate.com/demonlist/198/",
+  "file": "198-20240418074626.html",
+  "status": "ok",
+  "bytes": 124635,
+  "http": "200"
+ },
+ {
+  "ts": "20240515165100",
+  "host": "pointercrate.com",
+  "pos": 201,
+  "url": "https://web.archive.org/web/20240515165100id_/https://pointercrate.com/demonlist/201/",
+  "file": "201-20240515165100.html",
+  "status": "failed",
+  "error": "http=302; playback redirects to https://web.archive.org/web/20240828132354id_/https://pointercrate.com/demonlist/201 (2024 capture unavailable)"
+ },
+ {
+  "ts": "20240723221133",
+  "host": "pointercrate.com",
+  "pos": 203,
+  "url": "https://web.archive.org/web/20240723221133id_/https://pointercrate.com/demonlist/203/",
+  "file": "203-20240723221133.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240418074608",
+  "host": "pointercrate.com",
+  "pos": 205,
+  "url": "https://web.archive.org/web/20240418074608id_/https://pointercrate.com/demonlist/205/",
+  "file": "205-20240418074608.html",
+  "status": "ok",
+  "bytes": 115064,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074615",
+  "host": "pointercrate.com",
+  "pos": 207,
+  "url": "https://web.archive.org/web/20240418074615id_/https://pointercrate.com/demonlist/207/",
+  "file": "207-20240418074615.html",
+  "status": "ok",
+  "bytes": 127350,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074508",
+  "host": "pointercrate.com",
+  "pos": 209,
+  "url": "https://web.archive.org/web/20240418074508id_/https://pointercrate.com/demonlist/209/",
+  "file": "209-20240418074508.html",
+  "status": "ok",
+  "bytes": 215174,
+  "http": "200"
+ },
+ {
+  "ts": "20240515165149",
+  "host": "pointercrate.com",
+  "pos": 218,
+  "url": "https://web.archive.org/web/20240515165149id_/https://pointercrate.com/demonlist/218/",
+  "file": "218-20240515165149.html",
+  "status": "failed",
+  "error": "http=302; playback redirects to https://web.archive.org/web/20231208073543id_/https://www.pointercrate.com/demonlist/218 (2024 capture unavailable)"
+ },
+ {
+  "ts": "20240723013134",
+  "host": "pointercrate.com",
+  "pos": 230,
+  "url": "https://web.archive.org/web/20240723013134id_/https://pointercrate.com/demonlist/230/",
+  "file": "230-20240723013134.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240723013146",
+  "host": "pointercrate.com",
+  "pos": 231,
+  "url": "https://web.archive.org/web/20240723013146id_/https://pointercrate.com/demonlist/231/",
+  "file": "231-20240723013146.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240522093025",
+  "host": "pointercrate.com",
+  "pos": 237,
+  "url": "https://web.archive.org/web/20240522093025id_/https://pointercrate.com/demonlist/237/",
+  "file": "237-20240522093025.html",
+  "status": "ok",
+  "bytes": 112931,
+  "http": "200"
+ },
+ {
+  "ts": "20240619191315",
+  "host": "pointercrate.com",
+  "pos": 243,
+  "url": "https://web.archive.org/web/20240619191315id_/https://pointercrate.com/demonlist/243/",
+  "file": "243-20240619191315.html",
+  "status": "failed",
+  "error": "http=302 bytes=0"
+ },
+ {
+  "ts": "20240418074635",
+  "host": "pointercrate.com",
+  "pos": 257,
+  "url": "https://web.archive.org/web/20240418074635id_/https://pointercrate.com/demonlist/257/",
+  "file": "257-20240418074635.html",
+  "status": "ok",
+  "bytes": 111188,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074712",
+  "host": "pointercrate.com",
+  "pos": 258,
+  "url": "https://web.archive.org/web/20240418074712id_/https://pointercrate.com/demonlist/258/",
+  "file": "258-20240418074712.html",
+  "status": "ok",
+  "bytes": 403139,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074705",
+  "host": "pointercrate.com",
+  "pos": 259,
+  "url": "https://web.archive.org/web/20240418074705id_/https://pointercrate.com/demonlist/259/",
+  "file": "259-20240418074705.html",
+  "status": "ok",
+  "bytes": 228183,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074659",
+  "host": "pointercrate.com",
+  "pos": 260,
+  "url": "https://web.archive.org/web/20240418074659id_/https://pointercrate.com/demonlist/260/",
+  "file": "260-20240418074659.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074717",
+  "host": "pointercrate.com",
+  "pos": 261,
+  "url": "https://web.archive.org/web/20240418074717id_/https://pointercrate.com/demonlist/261/",
+  "file": "261-20240418074717.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074605",
+  "host": "pointercrate.com",
+  "pos": 262,
+  "url": "https://web.archive.org/web/20240418074605id_/https://pointercrate.com/demonlist/262/",
+  "file": "262-20240418074605.html",
+  "status": "ok",
+  "bytes": 320818,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074656",
+  "host": "pointercrate.com",
+  "pos": 268,
+  "url": "https://web.archive.org/web/20240418074656id_/https://pointercrate.com/demonlist/268/",
+  "file": "268-20240418074656.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240522004352",
+  "host": "pointercrate.com",
+  "pos": 274,
+  "url": "https://web.archive.org/web/20240522004352id_/https://pointercrate.com/demonlist/274/",
+  "file": "274-20240522004352.html",
+  "status": "failed",
+  "error": "http=000; playback redirects to unknown (2024 capture unavailable)"
+ },
+ {
+  "ts": "20240522004341",
+  "host": "pointercrate.com",
+  "pos": 300,
+  "url": "https://web.archive.org/web/20240522004341id_/https://pointercrate.com/demonlist/300/",
+  "file": "300-20240522004341.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074526",
+  "host": "pointercrate.com",
+  "pos": 317,
+  "url": "https://web.archive.org/web/20240418074526id_/https://pointercrate.com/demonlist/317/",
+  "file": "317-20240418074526.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074525",
+  "host": "pointercrate.com",
+  "pos": 319,
+  "url": "https://web.archive.org/web/20240418074525id_/https://pointercrate.com/demonlist/319/",
+  "file": "319-20240418074525.html",
+  "status": "ok",
+  "bytes": 72231,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074530",
+  "host": "pointercrate.com",
+  "pos": 324,
+  "url": "https://web.archive.org/web/20240418074530id_/https://pointercrate.com/demonlist/324/",
+  "file": "324-20240418074530.html",
+  "status": "ok",
+  "bytes": 72578,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074518",
+  "host": "pointercrate.com",
+  "pos": 326,
+  "url": "https://web.archive.org/web/20240418074518id_/https://pointercrate.com/demonlist/326/",
+  "file": "326-20240418074518.html",
+  "status": "ok",
+  "bytes": 116475,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074523",
+  "host": "pointercrate.com",
+  "pos": 334,
+  "url": "https://web.archive.org/web/20240418074523id_/https://pointercrate.com/demonlist/334/",
+  "file": "334-20240418074523.html",
+  "status": "ok",
+  "bytes": 157648,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074536",
+  "host": "pointercrate.com",
+  "pos": 338,
+  "url": "https://web.archive.org/web/20240418074536id_/https://pointercrate.com/demonlist/338/",
+  "file": "338-20240418074536.html",
+  "status": "ok",
+  "bytes": 121061,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074514",
+  "host": "pointercrate.com",
+  "pos": 341,
+  "url": "https://web.archive.org/web/20240418074514id_/https://pointercrate.com/demonlist/341/",
+  "file": "341-20240418074514.html",
+  "status": "ok",
+  "bytes": 133806,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074552",
+  "host": "pointercrate.com",
+  "pos": 364,
+  "url": "https://web.archive.org/web/20240418074552id_/https://pointercrate.com/demonlist/364/",
+  "file": "364-20240418074552.html",
+  "status": "ok",
+  "bytes": 118447,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074629",
+  "host": "pointercrate.com",
+  "pos": 366,
+  "url": "https://web.archive.org/web/20240418074629id_/https://pointercrate.com/demonlist/366/",
+  "file": "366-20240418074629.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074507",
+  "host": "pointercrate.com",
+  "pos": 367,
+  "url": "https://web.archive.org/web/20240418074507id_/https://pointercrate.com/demonlist/367/",
+  "file": "367-20240418074507.html",
+  "status": "ok",
+  "bytes": 113777,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074614",
+  "host": "pointercrate.com",
+  "pos": 370,
+  "url": "https://web.archive.org/web/20240418074614id_/https://pointercrate.com/demonlist/370/",
+  "file": "370-20240418074614.html",
+  "status": "ok",
+  "bytes": 119315,
+  "http": "200"
+ },
+ {
+  "ts": "20240522004332",
+  "host": "pointercrate.com",
+  "pos": 374,
+  "url": "https://web.archive.org/web/20240522004332id_/https://pointercrate.com/demonlist/374/",
+  "file": "374-20240522004332.html",
+  "status": "ok",
+  "bytes": 120770,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074509",
+  "host": "pointercrate.com",
+  "pos": 376,
+  "url": "https://web.archive.org/web/20240418074509id_/https://pointercrate.com/demonlist/376/",
+  "file": "376-20240418074509.html",
+  "status": "ok",
+  "bytes": 117718,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074554",
+  "host": "pointercrate.com",
+  "pos": 391,
+  "url": "https://web.archive.org/web/20240418074554id_/https://pointercrate.com/demonlist/391/",
+  "file": "391-20240418074554.html",
+  "status": "ok",
+  "bytes": 129304,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074555",
+  "host": "pointercrate.com",
+  "pos": 395,
+  "url": "https://web.archive.org/web/20240418074555id_/https://pointercrate.com/demonlist/395/",
+  "file": "395-20240418074555.html",
+  "status": "ok",
+  "bytes": 124135,
+  "http": "200"
+ },
+ {
+  "ts": "20240522004314",
+  "host": "pointercrate.com",
+  "pos": 415,
+  "url": "https://web.archive.org/web/20240522004314id_/https://pointercrate.com/demonlist/415/",
+  "file": "415-20240522004314.html",
+  "status": "ok",
+  "bytes": 159273,
+  "http": "200"
+ },
+ {
+  "ts": "20240515165137",
+  "host": "pointercrate.com",
+  "pos": 416,
+  "url": "https://web.archive.org/web/20240515165137id_/https://pointercrate.com/demonlist/416/",
+  "file": "416-20240515165137.html",
+  "status": "ok",
+  "bytes": 216661,
+  "http": "200"
+ },
+ {
+  "ts": "20240515165042",
+  "host": "pointercrate.com",
+  "pos": 419,
+  "url": "https://web.archive.org/web/20240515165042id_/https://pointercrate.com/demonlist/419/",
+  "file": "419-20240515165042.html",
+  "status": "ok",
+  "bytes": 119064,
+  "http": "200"
+ },
+ {
+  "ts": "20240515165142",
+  "host": "pointercrate.com",
+  "pos": 435,
+  "url": "https://web.archive.org/web/20240515165142id_/https://pointercrate.com/demonlist/435/",
+  "file": "435-20240515165142.html",
+  "status": "failed",
+  "error": "http=000; playback redirects to unknown (2024 capture unavailable)"
+ },
+ {
+  "ts": "20240418074539",
+  "host": "pointercrate.com",
+  "pos": 439,
+  "url": "https://web.archive.org/web/20240418074539id_/https://pointercrate.com/demonlist/439/",
+  "file": "439-20240418074539.html",
+  "status": "ok",
+  "bytes": 122172,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074538",
+  "host": "pointercrate.com",
+  "pos": 443,
+  "url": "https://web.archive.org/web/20240418074538id_/https://pointercrate.com/demonlist/443/",
+  "file": "443-20240418074538.html",
+  "status": "ok",
+  "bytes": 122143,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074543",
+  "host": "pointercrate.com",
+  "pos": 444,
+  "url": "https://web.archive.org/web/20240418074543id_/https://pointercrate.com/demonlist/444/",
+  "file": "444-20240418074543.html",
+  "status": "ok",
+  "bytes": 149348,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074540",
+  "host": "pointercrate.com",
+  "pos": 445,
+  "url": "https://web.archive.org/web/20240418074540id_/https://pointercrate.com/demonlist/445/",
+  "file": "445-20240418074540.html",
+  "status": "ok",
+  "bytes": 120017,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074542",
+  "host": "pointercrate.com",
+  "pos": 447,
+  "url": "https://web.archive.org/web/20240418074542id_/https://pointercrate.com/demonlist/447/",
+  "file": "447-20240418074542.html",
+  "status": "ok",
+  "bytes": 142953,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074544",
+  "host": "pointercrate.com",
+  "pos": 448,
+  "url": "https://web.archive.org/web/20240418074544id_/https://pointercrate.com/demonlist/448/",
+  "file": "448-20240418074544.html",
+  "status": "ok",
+  "bytes": 261859,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074713",
+  "host": "pointercrate.com",
+  "pos": 454,
+  "url": "https://web.archive.org/web/20240418074713id_/https://pointercrate.com/demonlist/454/",
+  "file": "454-20240418074713.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074536",
+  "host": "pointercrate.com",
+  "pos": 461,
+  "url": "https://web.archive.org/web/20240418074536id_/https://pointercrate.com/demonlist/461/",
+  "file": "461-20240418074536.html",
+  "status": "ok",
+  "bytes": 165999,
+  "http": "200"
+ },
+ {
+  "ts": "20240418074714",
+  "host": "pointercrate.com",
+  "pos": 463,
+  "url": "https://web.archive.org/web/20240418074714id_/https://pointercrate.com/demonlist/463/",
+  "file": "463-20240418074714.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ },
+ {
+  "ts": "20240418074526",
+  "host": "pointercrate.com",
+  "pos": 478,
+  "url": "https://web.archive.org/web/20240418074526id_/https://pointercrate.com/demonlist/478/",
+  "file": "478-20240418074526.html",
+  "status": "failed",
+  "error": "http=000 bytes=0"
+ }
+]

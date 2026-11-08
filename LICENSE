@@ -1,0 +1,30 @@
+MIT License
+
+Copyright (c) 2026 ziyyhhk
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+NOTE ON SCOPE OF THIS LICENSE: the MIT grant above covers the mirroring tooling
+written for this project (server.js, build.py, build-pages.py, the static
+pages-shim, the local drivers and the recovered-data scripts). It does not
+license the archived pointercrate HTML/CSS/JS, the Geometry Dash content, or the
+demonlist data itself, which belong to pointercrate and their respective authors.
+Those files are shipped verbatim from the Internet Archive snapshot at
+https://web.archive.org/web/20240612173310/https://pointercrate.com/demonlist/statsviewer/
+for the purpose of viewing that historical page.

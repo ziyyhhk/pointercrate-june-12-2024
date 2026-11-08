@@ -1,0 +1,27 @@
+retrying 25 failed fetches
+[1/25] 101-20240418074653: ok 
+[2/25] 153-20240418074655: ok 
+[3/25] 166-20240515165152: failed http=302; playback redirects to https://web.archive.org/web/20250114035837id_/https://www.pointercrate.com/demonlist/166 (2024 capture unavailable)
+[4/25] 160-20240522004358: failed http=302 bytes=0
+[5/25] 185-20240704023209: failed http=302 bytes=0
+[6/25] 201-20240515165100: failed http=302; playback redirects to https://web.archive.org/web/20240828132354id_/https://pointercrate.com/demonlist/201 (2024 capture unavailable)
+[7/25] 203-20240723221133: failed http=302 bytes=0
+[8/25] 230-20240723013134: failed http=302 bytes=0
+[9/25] 218-20240515165149: failed http=302; playback redirects to https://web.archive.org/web/20231208073543id_/https://www.pointercrate.com/demonlist/218 (2024 capture unavailable)
+[10/25] 243-20240619191315: failed http=302 bytes=0
+[11/25] 257-20240418074635: ok 
+[12/25] 258-20240418074712: ok 
+[13/25] 259-20240418074705: ok 
+[14/25] 231-20240723013146: failed http=302 bytes=0
+[15/25] 261-20240418074717: failed http=000 bytes=0
+[16/25] 260-20240418074659: failed http=000 bytes=0
+[17/25] 274-20240522004352: failed http=000; playback redirects to unknown (2024 capture unavailable)
+[18/25] 300-20240522004341: failed http=000 bytes=0
+[19/25] 317-20240418074526: failed http=000 bytes=0
+[20/25] 366-20240418074629: failed http=000 bytes=0
+[21/25] 435-20240515165142: failed http=000; playback redirects to unknown (2024 capture unavailable)
+[22/25] 454-20240418074713: failed http=000 bytes=0
+[23/25] 463-20240418074714: failed http=000 bytes=0
+[24/25] 478-20240418074526: failed http=000 bytes=0
+[25/25] 268-20240418074656: failed http=000 bytes=0
+final: 38/58 usable

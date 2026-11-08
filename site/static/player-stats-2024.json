@@ -1,0 +1,4086 @@
+{
+ "_meta": {
+  "snapshot": "2024-06-12",
+  "record_pages": 48,
+  "record_captures_range": [
+   "20240418074507",
+   "20240723221133"
+  ],
+  "records_recovered": 309,
+  "note": "published/verified/hardest are real list facts; completion records are a partial sample recovered from archived demon pages, not full player history"
+ },
+ "players": {
+  "36915": {
+   "id": 36915,
+   "name": "[TCD] Trick",
+   "published": [
+    {
+     "id": 379,
+     "name": "Firework",
+     "position": 11
+    }
+   ],
+   "verified": [
+    {
+     "id": 379,
+     "name": "Firework",
+     "position": 11
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9jVUaUkH0wo",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ZCw9bWhoAOE",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=AEFg1Jfs5Is",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dbcB8vhFsgw",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=kMQdCBc7YXw",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "53408": {
+   "id": 53408,
+   "name": "[AUF] Zoink",
+   "published": [],
+   "verified": [
+    {
+     "id": 562,
+     "name": "Tidal Wave",
+     "position": 1
+    },
+    {
+     "id": 486,
+     "name": "Avernus",
+     "position": 2
+    },
+    {
+     "id": 442,
+     "name": "Acheron",
+     "position": 3
+    },
+    {
+     "id": 520,
+     "name": "Tunnel of Despair",
+     "position": 9
+    },
+    {
+     "id": 501,
+     "name": "KOCMOC",
+     "position": 10
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ZCpn0RBiY7w",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Q6q8Xc7Wxws",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    }
+   ]
+  },
+  "51613": {
+   "id": 51613,
+   "name": "wPopoff",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=qDic8RetS9Y",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/1593115258",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    }
+   ]
+  },
+  "37889": {
+   "id": 37889,
+   "name": "[THNDR] Thnnder",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-7-yiX-Zx2E",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=d1uDMpJ2a94",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=SMt-c6SScD8",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=uKJaAyJT-1k",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 386,
+      "name": "Cersia Difficult",
+      "position": 211
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=4d1JNJhJids",
+     "capture_ts": "20240418074615",
+     "source": "https://web.archive.org/web/20240418074615/https://pointercrate.com/demonlist/207/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=8y2hgPa2pEQ",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    }
+   ]
+  },
+  "5223": {
+   "id": 5223,
+   "name": "Doggie",
+   "published": [],
+   "verified": [
+    {
+     "id": 380,
+     "name": "Slaughterhouse",
+     "position": 7
+    },
+    {
+     "id": 516,
+     "name": "Deimos",
+     "position": 14
+    },
+    {
+     "id": 525,
+     "name": "Delta",
+     "position": 41
+    },
+    {
+     "id": 412,
+     "name": "Aerial Gleam",
+     "position": 45
+    },
+    {
+     "id": 267,
+     "name": "Altered Ascent",
+     "position": 230
+    },
+    {
+     "id": 315,
+     "name": "Timor",
+     "position": 241
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/1198404719",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=XrK9yuMLMQ8",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9vevO8hAI7o",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 94,
+     "video": "https://www.youtube.com/watch?v=y-ZeS3OOLg0",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/1181694240",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/900175747",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "33684": {
+   "id": 33684,
+   "name": "[VDL] ViperVenom95",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=1PX4JGKC-IY",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=W6BzdxK4dyw",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Fh23nQO2GOM",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=FsJzQ4V-j0k",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=cTSM7btuuDQ",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=hlq3a3-jFN8",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "39295": {
+   "id": 39295,
+   "name": "Taiago",
+   "published": [],
+   "verified": [
+    {
+     "id": 514,
+     "name": "the wiener",
+     "position": 183
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5S58PLWwIqg",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    }
+   ]
+  },
+  "3188": {
+   "id": 3188,
+   "name": "SnowBallerr",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=sLOUEGOFDOI",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Ir4166zeAs8",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=tTif6tyvQcg",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=onAEcdmmm8Q",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Qw-gpgM_HRE",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OOsjGLpgkas",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ayTFsqMaQ3A",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=vrHbBX4UkCE",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9d6lqKMCvU4",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 4,
+      "name": "Shock Therapy",
+      "position": 345
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=AvRkKpjhebo",
+     "capture_ts": "20240418074514",
+     "source": "https://web.archive.org/web/20240418074514/https://pointercrate.com/demonlist/341/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=of6FYpL50gE",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    },
+    {
+     "demon": {
+      "id": 61,
+      "name": "Red World Rebirth",
+      "position": 465
+     },
+     "progress": 71,
+     "video": "https://www.youtube.com/watch?v=jk71JKYrslU",
+     "capture_ts": "20240418074536",
+     "source": "https://web.archive.org/web/20240418074536/https://pointercrate.com/demonlist/461/"
+    }
+   ]
+  },
+  "56410": {
+   "id": 56410,
+   "name": "skzyl",
+   "published": [],
+   "verified": [
+    {
+     "id": 547,
+     "name": "SARYYX NEVER CLEAR",
+     "position": 32
+    },
+    {
+     "id": 548,
+     "name": "Obscura",
+     "position": 169
+    },
+    {
+     "id": 153,
+     "name": "Delta Interface",
+     "position": 271
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Z0J8-S3rMCA",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=8PCaSXsKcWA",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=EGhbJzfXV1o",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 502,
+      "name": "REPENTLESS",
+      "position": 151
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9iaaRa6Lw18",
+     "capture_ts": "20240522004429",
+     "source": "https://web.archive.org/web/20240522004429/https://pointercrate.com/demonlist/149/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7frafDhPp0w",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 505,
+      "name": "FusionDynamix",
+      "position": 158
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=iK244P29jfU",
+     "capture_ts": "20240418074655",
+     "source": "https://web.archive.org/web/20240418074655/https://pointercrate.com/demonlist/153/"
+    },
+    {
+     "demon": {
+      "id": 532,
+      "name": "CRIDIUM",
+      "position": 160
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=lbNawHRSFjA",
+     "capture_ts": "20240418074522",
+     "source": "https://web.archive.org/web/20240418074522/https://pointercrate.com/demonlist/156/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=fZuTme8QYFg",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=T2Gxdl_TDfI",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=1wGmvHLZjlc",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=rBnqhOivmzo",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 471,
+      "name": "X0",
+      "position": 207
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=89eGQ79DN9U",
+     "capture_ts": "20240619191315",
+     "source": "https://web.archive.org/web/20240619191315/https://pointercrate.com/demonlist/243/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=g0fYbr_4SY8",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=r6zW5bx1QaU",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=VvjkbIIjKW4",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=GLlHE4k4Fhw",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=xN73UzdYnAE",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 340,
+      "name": "Removed Submission",
+      "position": 374
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zE3_UscmRdQ",
+     "capture_ts": "20240418074614",
+     "source": "https://web.archive.org/web/20240418074614/https://pointercrate.com/demonlist/370/"
+    },
+    {
+     "demon": {
+      "id": 291,
+      "name": "Tenth Circle",
+      "position": 376
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=g-MN0_3YW8o",
+     "capture_ts": "20240522004332",
+     "source": "https://web.archive.org/web/20240522004332/https://pointercrate.com/demonlist/374/"
+    },
+    {
+     "demon": {
+      "id": 322,
+      "name": "Alpha Baa X",
+      "position": 380
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=YLaRf_Xknm0",
+     "capture_ts": "20240418074509",
+     "source": "https://web.archive.org/web/20240418074509/https://pointercrate.com/demonlist/376/"
+    }
+   ]
+  },
+  "34641": {
+   "id": 34641,
+   "name": "cobrablitz",
+   "published": [],
+   "verified": [
+    {
+     "id": 507,
+     "name": "IthacropoliX",
+     "position": 125
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9j5sLI0yORo",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=0bPCNHcm05c",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=0S6x3vHzkJg",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Y_FcftjqZKw",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WhWtrH_wQDY",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=isvX-Jq5YIw",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=pPG1Y9d-NAM",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=x4WLDRx59mg",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7PWpP5ISpcU",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OrXA6eK_ANw",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "33483": {
+   "id": 33483,
+   "name": "Cursed",
+   "published": [],
+   "verified": [
+    {
+     "id": 413,
+     "name": "Abyss of Darkness",
+     "position": 5
+    },
+    {
+     "id": 453,
+     "name": "SUPERHATEMEWORLD",
+     "position": 62
+    },
+    {
+     "id": 368,
+     "name": "Kuzureta",
+     "position": 223
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=M2g7LHLs7oM",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=A8GIvb43zvs",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Wjk0ERJjzi8",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=lmtHcjzfx2c",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "55804": {
+   "id": 55804,
+   "name": "[SARK] Netermind",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Y1Nes--TKwc",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7oPDQd5DVfs",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    }
+   ]
+  },
+  "32052": {
+   "id": 32052,
+   "name": "Laniakea",
+   "published": [],
+   "verified": [
+    {
+     "id": 395,
+     "name": "Terminux",
+     "position": 107
+    },
+    {
+     "id": 330,
+     "name": "Stygian Machinery",
+     "position": 250
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Fo99YJCssnU",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=k_ro_68dgWQ",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=148nQXmr708",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-WCTvZ0AyNc",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=JVZE-vV3gRc",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 386,
+      "name": "Cersia Difficult",
+      "position": 211
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=1M2axxvKG3k",
+     "capture_ts": "20240418074615",
+     "source": "https://web.archive.org/web/20240418074615/https://pointercrate.com/demonlist/207/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=opn5Z7YwbwM",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=D1LZ0C1ly9s",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=0J0mHzsFAUg",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dVFYUV2rtVk",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 213,
+      "name": "Audio Expulsion",
+      "position": 338
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=1SH6eZCDcls",
+     "capture_ts": "20240418074523",
+     "source": "https://web.archive.org/web/20240418074523/https://pointercrate.com/demonlist/334/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=V5vshXnNhzM",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "42413": {
+   "id": 42413,
+   "name": "[IQB7] Whizkid05",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=16lj4l8jdYg",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 505,
+      "name": "FusionDynamix",
+      "position": 158
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/1911975084",
+     "capture_ts": "20240418074655",
+     "source": "https://web.archive.org/web/20240418074655/https://pointercrate.com/demonlist/153/"
+    },
+    {
+     "demon": {
+      "id": 499,
+      "name": "Silentium Clavas",
+      "position": 209
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5WsiZ1RTYDU",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/205/"
+    }
+   ]
+  },
+  "31657": {
+   "id": 31657,
+   "name": "[PRIME] Bigthunder556",
+   "published": [],
+   "verified": [
+    {
+     "id": 497,
+     "name": "Terminal Rampancy",
+     "position": 50
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=x1r8wGcvdlM",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=uUKSPG-Oyeg",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3GSn2OfpkiA",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PFp8LKReI7U",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Lwuq13TswR0",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=EHliHe-2hbM",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=lmVBhjivf6A",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_kLRtkbyu-E",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PS-IQHzQ81k",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=V33Q4hni1SE",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 213,
+      "name": "Audio Expulsion",
+      "position": 338
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=IvpQc-mY7x0",
+     "capture_ts": "20240418074523",
+     "source": "https://web.archive.org/web/20240418074523/https://pointercrate.com/demonlist/334/"
+    },
+    {
+     "demon": {
+      "id": 79,
+      "name": "Atmosphere",
+      "position": 395
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=4LsTTGT1nD0",
+     "capture_ts": "20240418074554",
+     "source": "https://web.archive.org/web/20240418074554/https://pointercrate.com/demonlist/391/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=e9PxI02UwHw",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "34726": {
+   "id": 34726,
+   "name": "[KIRB] Amza",
+   "published": [],
+   "verified": [
+    {
+     "id": 480,
+     "name": "reeses potentially",
+     "position": 231
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Kt_fxnOYeco",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=lz7aubFdqJA",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3-Rbcp3e2I8",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 386,
+      "name": "Cersia Difficult",
+      "position": 211
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WwzdKp1b8GI",
+     "capture_ts": "20240418074615",
+     "source": "https://web.archive.org/web/20240418074615/https://pointercrate.com/demonlist/207/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=JvYq8l1XduI",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=K7iplDb934I",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=gLUDPUk4ozQ",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    }
+   ]
+  },
+  "41379": {
+   "id": 41379,
+   "name": "[IQB7] Quivert",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 505,
+      "name": "FusionDynamix",
+      "position": 158
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9NAog5KdFK0",
+     "capture_ts": "20240418074655",
+     "source": "https://web.archive.org/web/20240418074655/https://pointercrate.com/demonlist/153/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=1pLBl4rZGCM",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 472,
+      "name": "ameliorate",
+      "position": 239
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PvYP8vy4Z-4",
+     "capture_ts": "20240522093025",
+     "source": "https://web.archive.org/web/20240522093025/https://pointercrate.com/demonlist/237/"
+    }
+   ]
+  },
+  "38083": {
+   "id": 38083,
+   "name": "kloone",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=aHziWPLn29g",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=N9jmuGDqvUc",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dPza6k2gkNc",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=mKstfRTqP0g",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=srXYrCQWtII",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=uUD_SBUnlkc",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "37759": {
+   "id": 37759,
+   "name": "[CNDL] Hover",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=n4P_KIu8j4w",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OQ-CIBP9xcI",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=QQG-wXAQenc",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=2hZLp9MymaE",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Xfq8U71Kvg4",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "41075": {
+   "id": 41075,
+   "name": "Tunax",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OzucVMoESuw",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ai9xcogyNQ0",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=6DkI8Q_MLkY",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=bM-4ZFXIhng",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=JulUY5y6wik",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=X0QPOCfn4o8",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 370,
+      "name": "Infinite Iniquity",
+      "position": 198
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zgPgEkVYBM8",
+     "capture_ts": "20240723013134",
+     "source": "https://web.archive.org/web/20240723013134/https://pointercrate.com/demonlist/230/"
+    }
+   ]
+  },
+  "40349": {
+   "id": 40349,
+   "name": "Superjavicon",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=DFEkx7isetw",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=urSetZb-l08",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=x-85DTsHcus",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=R3qD8Jp_qYY",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ORXaKItthfk",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.twitch.tv/videos/1159822729",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "38058": {
+   "id": 38058,
+   "name": "[Ñ] Hipo",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_GRMatSP2vA",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=LElpRUIRC4Y",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=IQwOw5CyuMk",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5QIsXiqTMZE",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=nR41YbsK6d8",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=RqZEOiBjlI0",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "35599": {
+   "id": 35599,
+   "name": "PersonHuman42",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=caigpE7HaOE",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zq8KNTzhUUE",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ikOMVNIXeKQ",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_pVeCLyvApk",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ZSOfSM9Tgec",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=AYkV5IWvNT8",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=kjHn0b-0Lo8",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "50518": {
+   "id": 50518,
+   "name": "eastshark",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=KurYnmlUkDE",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=f6FNfJPDXpk",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=a141bTAfsOs",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ygZbahYV40k",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "38481": {
+   "id": 38481,
+   "name": "theworldofme",
+   "published": [],
+   "verified": [
+    {
+     "id": 445,
+     "name": "Framework",
+     "position": 245
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Biq-Xz_mVcM",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WsYwDWRH2Yc",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=tLPWyzenGdc",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=L8kExFRxhi8",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=LPY15WokAg0",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=jVSRmWSSKjQ",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 381,
+      "name": "RELENTLESS",
+      "position": 238
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=oy9RJC9SX8M",
+     "capture_ts": "20240522004352",
+     "source": "https://web.archive.org/web/20240522004352/https://pointercrate.com/demonlist/274/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=I45rZffrEN8",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "35878": {
+   "id": 35878,
+   "name": "[Ñ] TheTerrBonnie",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WG6MzxDFQ6I",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3P6pSqEBCng",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5qb7GyUe8_A",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=cjTWoyRbKk8",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=iZblQKiZyjQ",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=aWbH4POP3ns",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 402,
+      "name": "TheCinnyBun",
+      "position": 264
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=eq7nYjNG778",
+     "capture_ts": "20240522004341",
+     "source": "https://web.archive.org/web/20240522004341/https://pointercrate.com/demonlist/300/"
+    }
+   ]
+  },
+  "38095": {
+   "id": 38095,
+   "name": "[JFREE] stillsouless",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_l_AWTJX1xE",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=GkZaKRPvmFM",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Jyt4uLqIqrU",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3DiH2jF-XWA",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=kMnTGBKqrUA",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 370,
+      "name": "Infinite Iniquity",
+      "position": 198
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=O1wYdCOA1no",
+     "capture_ts": "20240723013134",
+     "source": "https://web.archive.org/web/20240723013134/https://pointercrate.com/demonlist/230/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Sx-QgsC7X-I",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=8yThBgof_QI",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ey3RP3NuUMI",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=T56_vguYzuk",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "38295": {
+   "id": 38295,
+   "name": "[JM] Cryonix6000",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": null,
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=TpDOscVk6LU",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=xoEMOLeSbeY",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=w1II_D-r6q4",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=15gUypFo1eg",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=btjv6xi6Ql8",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "36251": {
+   "id": 36251,
+   "name": "Baeru",
+   "published": [],
+   "verified": [
+    {
+     "id": 435,
+     "name": "Shukketsu",
+     "position": 42
+    },
+    {
+     "id": 361,
+     "name": "Trueffet",
+     "position": 44
+    },
+    {
+     "id": 420,
+     "name": "Esfera",
+     "position": 51
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=9q0-k_zSI1E",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5Q_PXcfNvgc",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-lNCKjJcoUM",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=K8Qo_q6d9cg",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=r1XaFrLlxYA",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 4,
+      "name": "Shock Therapy",
+      "position": 345
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Ajg4Ybii82M",
+     "capture_ts": "20240418074514",
+     "source": "https://web.archive.org/web/20240418074514/https://pointercrate.com/demonlist/341/"
+    }
+   ]
+  },
+  "35204": {
+   "id": 35204,
+   "name": "[MTM] DibiiziCookie",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=MhmaXZVDsuY",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 502,
+      "name": "REPENTLESS",
+      "position": 151
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=hWEGYKxbeco",
+     "capture_ts": "20240522004429",
+     "source": "https://web.archive.org/web/20240522004429/https://pointercrate.com/demonlist/149/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=MdYNg69lSMw",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 532,
+      "name": "CRIDIUM",
+      "position": 160
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=AmSpjnaKmlY",
+     "capture_ts": "20240418074522",
+     "source": "https://web.archive.org/web/20240418074522/https://pointercrate.com/demonlist/156/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=yBfQMr-NEUk",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=an7oLjdeB_M",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 491,
+      "name": "LUMINA",
+      "position": 195
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WTYLn377l4Q",
+     "capture_ts": "20240723013146",
+     "source": "https://web.archive.org/web/20240723013146/https://pointercrate.com/demonlist/231/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=x2rSYd_IkDw",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=f2BGq9d9Xmg",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=AyQioyGHVOU",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=4smS6KigtgI",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 213,
+      "name": "Audio Expulsion",
+      "position": 338
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=__DsYTjBeAs",
+     "capture_ts": "20240418074523",
+     "source": "https://web.archive.org/web/20240418074523/https://pointercrate.com/demonlist/334/"
+    }
+   ]
+  },
+  "6238": {
+   "id": 6238,
+   "name": "Zeronium",
+   "published": [
+    {
+     "id": 375,
+     "name": "Crystal",
+     "position": 302
+    }
+   ],
+   "verified": [
+    {
+     "id": 568,
+     "name": "ATOMIC CANNON Mk III",
+     "position": 40
+    },
+    {
+     "id": 509,
+     "name": "ATOMIC CANNON Mk II",
+     "position": 82
+    },
+    {
+     "id": 456,
+     "name": "no jokes",
+     "position": 108
+    },
+    {
+     "id": 515,
+     "name": "Awedsy",
+     "position": 114
+    },
+    {
+     "id": 401,
+     "name": "ATOMIC CANNON",
+     "position": 119
+    },
+    {
+     "id": 430,
+     "name": "RANDOM ACCESS MEMORY",
+     "position": 172
+    },
+    {
+     "id": 523,
+     "name": "Power Grid",
+     "position": 178
+    },
+    {
+     "id": 484,
+     "name": "MISFIRE",
+     "position": 222
+    },
+    {
+     "id": 384,
+     "name": "Luxtra",
+     "position": 287
+    },
+    {
+     "id": 375,
+     "name": "Crystal",
+     "position": 302
+    },
+    {
+     "id": 297,
+     "name": "Falcon16",
+     "position": 379
+    },
+    {
+     "id": 275,
+     "name": "Dimensional Breaking",
+     "position": 386
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=fZ57rDjXjNA",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=V6q0jxRIIvo",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=LfluxvNdlgU",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=jUQgwYxf6So",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=D65freQjJAk",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 370,
+      "name": "Infinite Iniquity",
+      "position": 198
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ayOIibplrhg",
+     "capture_ts": "20240723013134",
+     "source": "https://web.archive.org/web/20240723013134/https://pointercrate.com/demonlist/230/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=EbXEGDnoP3o",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 471,
+      "name": "X0",
+      "position": 207
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ZzXK2z33blI",
+     "capture_ts": "20240619191315",
+     "source": "https://web.archive.org/web/20240619191315/https://pointercrate.com/demonlist/243/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=sedXwdOnzZE",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=L10EUdr-fHc",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=l5vcw0k3qzQ",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7h5muSRFDsg",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ACwySIik_wU",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 213,
+      "name": "Audio Expulsion",
+      "position": 338
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=uP5QQfy_xa8",
+     "capture_ts": "20240418074523",
+     "source": "https://web.archive.org/web/20240418074523/https://pointercrate.com/demonlist/334/"
+    },
+    {
+     "demon": {
+      "id": 327,
+      "name": "ikaros",
+      "position": 342
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ypwlZSgmlEQ",
+     "capture_ts": "20240418074536",
+     "source": "https://web.archive.org/web/20240418074536/https://pointercrate.com/demonlist/338/"
+    },
+    {
+     "demon": {
+      "id": 322,
+      "name": "Alpha Baa X",
+      "position": 380
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ITQmIyP_RNY",
+     "capture_ts": "20240418074509",
+     "source": "https://web.archive.org/web/20240418074509/https://pointercrate.com/demonlist/376/"
+    },
+    {
+     "demon": {
+      "id": 33,
+      "name": "Artificial Ideology",
+      "position": 417
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=NjvLssrLhO4",
+     "capture_ts": "20240522004314",
+     "source": "https://web.archive.org/web/20240522004314/https://pointercrate.com/demonlist/415/"
+    },
+    {
+     "demon": {
+      "id": 169,
+      "name": "A Bizarre Phantasm",
+      "position": 418
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=GxORlnXMg1o",
+     "capture_ts": "20240515165137",
+     "source": "https://web.archive.org/web/20240515165137/https://pointercrate.com/demonlist/416/"
+    },
+    {
+     "demon": {
+      "id": 233,
+      "name": "Concaved Memories",
+      "position": 448
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=KyJr7zh8PO8",
+     "capture_ts": "20240418074543",
+     "source": "https://web.archive.org/web/20240418074543/https://pointercrate.com/demonlist/444/"
+    },
+    {
+     "demon": {
+      "id": 61,
+      "name": "Red World Rebirth",
+      "position": 465
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=MAHNJRdl4Bo",
+     "capture_ts": "20240418074536",
+     "source": "https://web.archive.org/web/20240418074536/https://pointercrate.com/demonlist/461/"
+    }
+   ]
+  },
+  "32516": {
+   "id": 32516,
+   "name": "ezvie",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=rc6tO17PA5s",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=2SFxEE7VasE",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=elQtLRzNtF8",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 505,
+      "name": "FusionDynamix",
+      "position": 158
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=4imFK8B6IF0",
+     "capture_ts": "20240418074655",
+     "source": "https://web.archive.org/web/20240418074655/https://pointercrate.com/demonlist/153/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=sSjOUVGqs5Y",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=rVc6x8UN2ts",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PQIdPsZ9QHo",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7zsN_ZCVpmY",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=tjEuThJeDKw",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=k4ZgRigschE",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 291,
+      "name": "Tenth Circle",
+      "position": 376
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dsqrCzt7haU",
+     "capture_ts": "20240522004332",
+     "source": "https://web.archive.org/web/20240522004332/https://pointercrate.com/demonlist/374/"
+    },
+    {
+     "demon": {
+      "id": 169,
+      "name": "A Bizarre Phantasm",
+      "position": 418
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=nKyA5UQrz0c",
+     "capture_ts": "20240515165137",
+     "source": "https://web.archive.org/web/20240515165137/https://pointercrate.com/demonlist/416/"
+    }
+   ]
+  },
+  "3863": {
+   "id": 3863,
+   "name": "[TRIGO] takma",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 60,
+     "video": "https://www.youtube.com/watch?v=g7fbxvkfhp8",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=TN8nnwiboc8",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=LSInjHpUIwc",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "2881": {
+   "id": 2881,
+   "name": "Seturan",
+   "published": [
+    {
+     "id": 449,
+     "name": "Pagoda",
+     "position": 117
+    }
+   ],
+   "verified": [
+    {
+     "id": 449,
+     "name": "Pagoda",
+     "position": 117
+    },
+    {
+     "id": 127,
+     "name": "Visible Ray",
+     "position": 138
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=utsMfLTC84A",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=RcPohLHrz5w",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Gtigynz_Gmw",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=MEdc0lL08Eg",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=V4sheHM5jhg",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 169,
+      "name": "A Bizarre Phantasm",
+      "position": 418
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=LAUdt_6wrqc",
+     "capture_ts": "20240515165137",
+     "source": "https://web.archive.org/web/20240515165137/https://pointercrate.com/demonlist/416/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Mi4oWW0SGrI",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "51292": {
+   "id": 51292,
+   "name": "PoCle",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5oknTYj9Ea0",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=BE7Pv9-0Wj4",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=f1cFIc8aync",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WHkICrndEys",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=SGE28rSFm4c",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "6161": {
+   "id": 6161,
+   "name": "[PRIME] c",
+   "published": [],
+   "verified": [
+    {
+     "id": 496,
+     "name": "Saul Goodman",
+     "position": 17
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7aJAXvnKYGw",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=O2pRJyQPM2o",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PgYng2sttS0",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_kPX3LJT4c0",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-_jreskODkE",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "4978": {
+   "id": 4978,
+   "name": "[PRIME] RG",
+   "published": [],
+   "verified": [
+    {
+     "id": 338,
+     "name": "Omega Interface",
+     "position": 95
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=WNpeieJc3xE",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=bawTaw1k19Y",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=7O6pQaB6Zyw",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 370,
+      "name": "Infinite Iniquity",
+      "position": 198
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zi7bJduf7T4",
+     "capture_ts": "20240723013134",
+     "source": "https://web.archive.org/web/20240723013134/https://pointercrate.com/demonlist/230/"
+    },
+    {
+     "demon": {
+      "id": 350,
+      "name": "Sephiroth",
+      "position": 202
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=N1T1uUeNQ4I",
+     "capture_ts": "20240418074626",
+     "source": "https://web.archive.org/web/20240418074626/https://pointercrate.com/demonlist/198/"
+    },
+    {
+     "demon": {
+      "id": 386,
+      "name": "Cersia Difficult",
+      "position": 211
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=MWANLoSp2HE",
+     "capture_ts": "20240418074615",
+     "source": "https://web.archive.org/web/20240418074615/https://pointercrate.com/demonlist/207/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-AyzKo_yROA",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=oU3Xov7OeWs",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=tFLscwFfOBo",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=eMxkRg55GTU",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=y9lSWLD5vpw",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 213,
+      "name": "Audio Expulsion",
+      "position": 338
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=HiCTTeGQrO8",
+     "capture_ts": "20240418074523",
+     "source": "https://web.archive.org/web/20240418074523/https://pointercrate.com/demonlist/334/"
+    },
+    {
+     "demon": {
+      "id": 4,
+      "name": "Shock Therapy",
+      "position": 345
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OKZxzHPE-h4",
+     "capture_ts": "20240418074514",
+     "source": "https://web.archive.org/web/20240418074514/https://pointercrate.com/demonlist/341/"
+    },
+    {
+     "demon": {
+      "id": 169,
+      "name": "A Bizarre Phantasm",
+      "position": 418
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3sM6A2qvA1M",
+     "capture_ts": "20240515165137",
+     "source": "https://web.archive.org/web/20240515165137/https://pointercrate.com/demonlist/416/"
+    },
+    {
+     "demon": {
+      "id": 233,
+      "name": "Concaved Memories",
+      "position": 448
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=5pEhKcynn78",
+     "capture_ts": "20240418074543",
+     "source": "https://web.archive.org/web/20240418074543/https://pointercrate.com/demonlist/444/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=jeVt7bqKvYM",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "50481": {
+   "id": 50481,
+   "name": "[IQB7] Nickname09",
+   "published": [],
+   "verified": [],
+   "records": []
+  },
+  "51435": {
+   "id": 51435,
+   "name": "[USSR] Light",
+   "published": [],
+   "verified": [],
+   "records": []
+  },
+  "39686": {
+   "id": 39686,
+   "name": "[Ñ] Emiliano56",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=3wEYhW-tulc",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=KJPZu0Se_Wc",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=6DcqQejGuQE",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=6z88DEZYNp4",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  },
+  "32305": {
+   "id": 32305,
+   "name": "Axinity",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": null,
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=vV0kc-4uKOg",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=6MLRKm1mFz0",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PppwSOnUcb0",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    },
+    {
+     "demon": {
+      "id": 164,
+      "name": "Deception Dive",
+      "position": 452
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dT-O6pdtp5s",
+     "capture_ts": "20240418074544",
+     "source": "https://web.archive.org/web/20240418074544/https://pointercrate.com/demonlist/448/"
+    }
+   ]
+  },
+  "39952": {
+   "id": 39952,
+   "name": "Arshadow",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zi6ah85GXh0",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Cu_xvbCgVP0",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    }
+   ]
+  },
+  "33368": {
+   "id": 33368,
+   "name": "Zeroxy",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=PBK5DaOwq70",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=IIKqM7d4kNY",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 25,
+      "name": "Grill Kill",
+      "position": 447
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=Z996knpuQBg",
+     "capture_ts": "20240418074538",
+     "source": "https://web.archive.org/web/20240418074538/https://pointercrate.com/demonlist/443/"
+    }
+   ]
+  },
+  "35644": {
+   "id": 35644,
+   "name": "teraaa",
+   "published": [],
+   "verified": [
+    {
+     "id": 553,
+     "name": "Crackhead Circles",
+     "position": 56
+    },
+    {
+     "id": 532,
+     "name": "CRIDIUM",
+     "position": 160
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=xg1U_vZyj0o",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "41471": {
+   "id": 41471,
+   "name": "MIHAFC",
+   "published": [],
+   "verified": [],
+   "records": []
+  },
+  "39472": {
+   "id": 39472,
+   "name": "[IQB7] Breakcore",
+   "published": [],
+   "verified": [],
+   "records": []
+  },
+  "40419": {
+   "id": 40419,
+   "name": "[PRIME] exsii",
+   "published": [],
+   "verified": [
+    {
+     "id": 551,
+     "name": "Belladonna",
+     "position": 20
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 336,
+      "name": "Nhelv",
+      "position": 126
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=UYvS0HYGO7k",
+     "capture_ts": "20240515165152",
+     "source": "https://web.archive.org/web/20240515165152/https://pointercrate.com/demonlist/166/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=s9WGgk04Aho",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 386,
+      "name": "Cersia Difficult",
+      "position": 211
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=EOgRzUFcqrQ",
+     "capture_ts": "20240418074615",
+     "source": "https://web.archive.org/web/20240418074615/https://pointercrate.com/demonlist/207/"
+    },
+    {
+     "demon": {
+      "id": 102,
+      "name": "super probably level",
+      "position": 242
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=dXcS7rktxxQ",
+     "capture_ts": "20240515165149",
+     "source": "https://web.archive.org/web/20240515165149/https://pointercrate.com/demonlist/218/"
+    },
+    {
+     "demon": {
+      "id": 402,
+      "name": "TheCinnyBun",
+      "position": 264
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=zaIOdpbKj4I",
+     "capture_ts": "20240522004341",
+     "source": "https://web.archive.org/web/20240522004341/https://pointercrate.com/demonlist/300/"
+    }
+   ]
+  },
+  "42324": {
+   "id": 42324,
+   "name": "[KIRB] Nexel",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 506,
+      "name": "Fog",
+      "position": 103
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=IbDsUlZcF5E",
+     "capture_ts": "20240418074653",
+     "source": "https://web.archive.org/web/20240418074653/https://pointercrate.com/demonlist/101/"
+    },
+    {
+     "demon": {
+      "id": 451,
+      "name": "SZYSLAK",
+      "position": 150
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=jKCYP3i8Zg0",
+     "capture_ts": "20240704023209",
+     "source": "https://web.archive.org/web/20240704023209/https://pointercrate.com/demonlist/185/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=hfa-g6w7YVc",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=fsEEbHKGqLo",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=d4Ih9TS2c2s",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    }
+   ]
+  },
+  "34814": {
+   "id": 34814,
+   "name": "Crisis",
+   "published": [],
+   "verified": [
+    {
+     "id": 377,
+     "name": "Keres",
+     "position": 53
+    }
+   ],
+   "records": [
+    {
+     "demon": {
+      "id": 210,
+      "name": "Ouroboros",
+      "position": 132
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=UNZIoSuKiis",
+     "capture_ts": "20240418074608",
+     "source": "https://web.archive.org/web/20240418074608/https://pointercrate.com/demonlist/129/"
+    },
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=TuDBo2WayN4",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 317,
+      "name": "Cybernetic Crescent",
+      "position": 186
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=_14H484kedM",
+     "capture_ts": "20240515165100",
+     "source": "https://web.archive.org/web/20240515165100/https://pointercrate.com/demonlist/201/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=fyUhrHbs5LU",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=2o0ZfLzfsMY",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=OljAnqEOV-I",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    },
+    {
+     "demon": {
+      "id": 87,
+      "name": "Stalemate Redux",
+      "position": 263
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=YsjFr-BpZ_A",
+     "capture_ts": "20240418074705",
+     "source": "https://web.archive.org/web/20240418074705/https://pointercrate.com/demonlist/259/"
+    },
+    {
+     "demon": {
+      "id": 42,
+      "name": "ZAPHKIEL",
+      "position": 266
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=GjyFp12fpsY",
+     "capture_ts": "20240418074605",
+     "source": "https://web.archive.org/web/20240418074605/https://pointercrate.com/demonlist/262/"
+    }
+   ]
+  },
+  "39073": {
+   "id": 39073,
+   "name": "[AUF] Scep",
+   "published": [],
+   "verified": [],
+   "records": [
+    {
+     "demon": {
+      "id": 268,
+      "name": "Spectrum Cyclone",
+      "position": 157
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=ePTZZFxXvEc",
+     "capture_ts": "20240418074607",
+     "source": "https://web.archive.org/web/20240418074607/https://pointercrate.com/demonlist/152/"
+    },
+    {
+     "demon": {
+      "id": 282,
+      "name": "Wasureta",
+      "position": 187
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=-wLzMPGAbvo",
+     "capture_ts": "20240723221133",
+     "source": "https://web.archive.org/web/20240723221133/https://pointercrate.com/demonlist/203/"
+    },
+    {
+     "demon": {
+      "id": 119,
+      "name": "Generic Wave",
+      "position": 213
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=H7SEWUw75AI",
+     "capture_ts": "20240418074508",
+     "source": "https://web.archive.org/web/20240418074508/https://pointercrate.com/demonlist/209/"
+    },
+    {
+     "demon": {
+      "id": 125,
+      "name": "Digital Descent",
+      "position": 262
+     },
+     "progress": 100,
+     "video": "https://www.youtube.com/watch?v=DN2wef9S43o",
+     "capture_ts": "20240418074712",
+     "source": "https://web.archive.org/web/20240418074712/https://pointercrate.com/demonlist/258/"
+    }
+   ]
+  }
+ }
+}

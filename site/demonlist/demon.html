@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>Demon — Geometry Dash Demonlist</title>
+<script src="/static/vendor/jquery.min.js"></script>
+<script src="/static/vendor/jquery-ui.min.js"></script>
+<script src="/static/core/js/ui.js"></script>
+<script src="/static/core/js/nav.js"></script>
+<script src="/static/core/js/misc.js"></script>
+<link rel="stylesheet" href="/static/core/css/icon.css">
+<link rel="stylesheet" href="/static/core/css/nav.css">
+<link rel="stylesheet" href="/static/core/css/main.css">
+<link rel="stylesheet" href="/static/core/css/ui.css">
+<link rel="stylesheet" href="/static/core/css/core.css">
+<link rel="stylesheet" href="/static/core/css/fa.all.min.css">
+<link rel="stylesheet" href="/static/fonts/montserrat.css">
+<link rel="stylesheet" href="/static/demonlist/css/demonlist.css">
+<link rel="stylesheet" href="/static/core/css/sidebar.css">
+<style>
+  .demon-wrap{max-width:900px;margin:0 auto;padding:0 12px}
+  .demon-crumb{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#8a8a90;margin:18px 0 10px}
+  .demon-crumb a{color:#0881c6;text-decoration:none}
+  .demon-head h1{font-size:30px;margin:0 0 2px;line-height:1.15}
+  .demon-head .by{font-size:16px;color:#555;margin:0 0 14px}
+  .demon-badge{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    padding:3px 10px;border-radius:20px;margin-bottom:14px}
+  .badge-main{background:#e6f4ea;color:#1e7e34}
+  .badge-ext{background:#e7f1fb;color:#0b62b0}
+  .badge-legacy{background:#f3e8fb;color:#7d3cc0}
+  .video-frame{position:relative;width:100%;padding-top:56.25%;background:#000;border-radius:6px;overflow:hidden;margin:6px 0 4px}
+  .video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .video-thumb{position:absolute;inset:0;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;cursor:pointer}
+  .video-thumb .play-btn{width:68px;height:48px;background:rgba(20,20,20,.8);border-radius:12px;display:flex;align-items:center;justify-content:center;transition:background .15s}
+  .video-thumb:hover .play-btn{background:#f00}
+  .video-thumb .play-btn::after{content:"";border-style:solid;border-width:11px 0 11px 19px;border-color:transparent transparent transparent #fff;margin-left:4px}
+  .video-cap{font-size:11.5px;color:#8a8a90;margin:2px 0 0}
+  .demon-note{margin:14px 0 0;padding:11px 13px;border-left:3px solid #0881c6;background:rgba(8,129,198,.06);
+    font-size:12.5px;color:#5a5a60;line-height:1.5;border-radius:0 4px 4px 0}
+  .demon-note a{color:#0881c6}
+  .demon-nav{display:flex;justify-content:space-between;gap:10px;margin:16px 0 30px;flex-wrap:wrap}
+  .demon-nav a{flex:1;min-width:200px;text-decoration:none;color:#333;padding:12px 14px;border:1px dashed #cfcfd4;border-radius:6px;background:#fff;transition:border-color .15s,background .15s}
+  .demon-nav a:hover{border-color:#0881c6;background:#f7fbff}
+  .demon-nav .dir{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:#8a8a90;margin-bottom:3px}
+  .demon-nav .nm{font-weight:700;font-size:14px}
+  .demon-nav .next{text-align:right}
+  .demon-missing{text-align:center;padding:60px 20px;color:#777}
+  @media(max-width:600px){.demon-head h1{font-size:23px}}
+</style>
+</head>
+<body style="z-index:-10">
+<div style="width:100%;height:100%;position:fixed;top:0;left:0;background-size:cover;background-repeat:repeat-y;pointer-events:none;z-index:-1"></div>
+<header><nav class="center collapse underlined see-through"><div class="nav-icon" style="margin-right:auto"><a href="/demonlist/" aria-label="Go to demonlist"><img src="/static/images/logo.png" style="height:15px" alt="Logo"></a></div><div class="nav-group"><a class="nav-item hover white" href="/documentation/"><span style="display:flex;flex-direction:column;"><span style="font-size:50%">REST API</span><span>Documentation</span></span></a></div><div class="nav-group"><a class="nav-item hover white" href="/demonlist/"><span class="flex col"><span style="font-size:50%">Geometry Dash</span><span>DEMONLIST</span></span><i class="fas fa-sort-down" style="height:50%;padding-left:5px"></i></a><ul class="nav-hover-dropdown"><li><a class="white hover" href="/demonlist/statsviewer/">Stats Viewer</a></li><li><a class="white hover" href="/demonlist/?timemachine=true">Time Machine</a></li><li><a class="white hover" href="/guidelines/">Guidelines</a></li></ul></div><div class="nav-item collapse-button"><div class="hamburger hover"><input type="checkbox"><span></span><span></span><span></span></div></div></nav><div></div></header>
+
+<div class="demon-wrap">
+  <div class="demon-crumb"><a href="/demonlist/">Demonlist</a> &nbsp;/&nbsp; <span id="crumb-pos">…</span></div>
+  <div id="demon-content"><div class="demon-missing">Loading demon…</div></div>
+</div>
+
+<footer class="center"><span class="overline pad" style="text-align:center">© Copyright 2017-2024 pointercrate.com<br>All rights reserved<br>Local mirror of the June 12, 2024 Wayback Machine snapshot.</span></footer>
+<script src="/static/demon-detail.js" type="module"></script>
+</body>
+</html>
