@@ -2,8 +2,8 @@
 //
 // 1) Ranking rows: the archived markup puts flag / "#N" / name / score as plain
 //    inline children of a block <li>, so long names ("[VDL] ViperVenom95") wrapped
-//    onto a second line under the flag. Each row is now a flex row: the name lives
-//    in its own column and wraps inside it, the score stays pinned to the right.
+//    onto a second line under the flag. Each row is now a single-line flex row and
+//    the name is shrunk just enough to fit the panel, so nothing is cut off.
 // 2) Player detail: the June 12, 2024 snapshot preserved the top-50 ranking (rank,
 //    score, nationality) but no per-player record details, so the stat fields
 //    (Demonlist stats, hardest demon, completed/created/published/verified,
@@ -21,7 +21,7 @@ window.addEventListener("load", () => {
     "#stats-viewer-pagination ul.selection-list li > .flag-icon { flex: 0 0 auto; }",
     "#stats-viewer-pagination ul.selection-list li > b { flex: 0 0 auto; margin-left: 5px; }",
     "#stats-viewer-pagination ul.selection-list li > .mirror-name { flex: 0 1 auto; min-width: 0;",
-    "  margin-left: 2px; overflow-wrap: break-word; }",
+    "  margin-left: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }",
     "#stats-viewer-pagination ul.selection-list li > i { flex: 0 0 auto; margin-left: auto;",
     "  padding-left: 8px; white-space: nowrap; }",
   ].join("\n");
@@ -55,6 +55,29 @@ window.addEventListener("load", () => {
       if (n.nodeType === 3 && !n.textContent.trim()) li.removeChild(n);
     }
     return li;
+  };
+
+  // One line per player: shrink only the name, just enough to fit the panel,
+  // rather than wrapping it or cutting it off with an ellipsis.
+  const fitRows = () => {
+    for (const li of sv.list.getElementsByTagName("li")) {
+      const nm = li.querySelector(".mirror-name");
+      if (!nm) continue;
+      nm.style.fontSize = "";
+      const base = parseFloat(getComputedStyle(nm).fontSize) || 12;
+      const floor = base * 0.62;
+      for (let pass = 0; pass < 4 && nm.scrollWidth > nm.clientWidth + 1; pass++) {
+        const cur = parseFloat(getComputedStyle(nm).fontSize);
+        const want = Math.max(cur * (nm.clientWidth / nm.scrollWidth) - 0.5, floor);
+        if (want >= cur - 0.1) break;
+        nm.style.fontSize = want.toFixed(2) + "px";
+      }
+    }
+  };
+  const origHandleResponse = sv.handleResponse.bind(sv);
+  sv.handleResponse = (response) => {
+    origHandleResponse(response);
+    requestAnimationFrame(fitRows);
   };
 
   // Labels stay, values stay empty.
