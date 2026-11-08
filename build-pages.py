@@ -338,6 +338,11 @@ sv_dir.mkdir(parents=True, exist_ok=True)
 shutil.copyfile(DOCS / "index.html", sv_dir / "index.html")
 bump("html: statsviewer copy")
 
+# GitHub Pages would otherwise run the bundle through Jekyll, which silently
+# drops files starting with an underscore and can choke on archived markup.
+(DOCS / ".nojekyll").write_text("", encoding="utf-8")
+bump("nojekyll marker")
+
 # ---------------------------------------------------------------- 4. CSS files
 for css_file in sorted(DOCS.rglob("*.css")):
     src = css_file.read_text(encoding="utf-8", errors="replace")
