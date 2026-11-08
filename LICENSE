@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-NOTE ON SCOPE OF THIS LICENSE: the MIT grant above covers the mirroring tooling
-written for this project (server.js, build.py, build-pages.py, the static
-pages-shim, the local drivers and the recovered-data scripts). It does not
-license the archived pointercrate HTML/CSS/JS, the Geometry Dash content, or the
-demonlist data itself, which belong to pointercrate and their respective authors.
-Those files are shipped verbatim from the Internet Archive snapshot at
-https://web.archive.org/web/20240612173310/https://pointercrate.com/demonlist/statsviewer/
-for the purpose of viewing that historical page.

@@ -69,7 +69,12 @@ reports every failed network request and console error.
 
 ## License
 
-MIT for the mirroring tooling — see [LICENSE](LICENSE), which also states that
-the archived pointercrate assets and demonlist data belong to pointercrate and
-their authors. Snapshot courtesy of the
-[Internet Archive](https://web.archive.org/web/20240612173310/https://pointercrate.com/demonlist/statsviewer/).
+MIT for the mirroring tooling written for this project (`server.js`, `build.py`,
+`build-pages.py`, the static `pages-shim`, the `_dev` drivers and the
+recovered-data scripts) — see [LICENSE](LICENSE).
+
+That grant does not cover the archived pointercrate HTML/CSS/JS, the Geometry
+Dash content or the demonlist data, which belong to pointercrate and their
+respective authors. Those files are shipped verbatim from the
+[Internet Archive snapshot](https://web.archive.org/web/20240612173310/https://pointercrate.com/demonlist/statsviewer/)
+so that this historical page can be viewed offline.
